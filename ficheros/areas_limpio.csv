@@ -1,914 +1,914 @@
-,latitud,longitud,población,region,pais,precio,agua,wc,vaciado
-0,39.06956,-0.4098,Carcaixent,Comunitat Valenciana,España,Gratuito,si,si,si
-1,42.64159,-8.89696,Boiro,Galicia,España,Gratuito,si,si,desconocido
-2,42.90715,0.35921,Arreau,Occitanie,France,De pago,si,no,si
-3,38.39479,-0.41007,el Campello,Comunitat Valenciana,España,De pago,si,si,desconocido
-4,43.37179,-8.44443,A Coruña,Galicia,España,Gratuito,si,si,desconocido
-5,40.72556,0.72158,Deltebre,Catalunya,España,Gratuito,si,no,desconocido
-6,41.81417,2.52043,Arbúcies,Catalunya,España,Gratuito,si,no,desconocido
-7,39.75402,9.6713,Cardedu,Sardigna/Sardegna,Italia,De pago,si,si,desconocido
-8,41.78121,1.27773,Guissona,Catalunya,España,Gratuito,si,si,desconocido
-9,51.28586,4.50299,Brasschaat,Antwerpen,België / Belgique / Belgien,Gratuito,si,no,desconocido
-10,41.67803,1.28364,Cervera,Catalunya,España,Gratuito,si,no,desconocido
-11,47.065,0.31783,Champigny-sur-Veude,Centre-Val de Loire,France,Gratuito,si,si,desconocido
-12,45.05802,1.65895,Collonges-la-Rouge,Nouvelle-Aquitaine,France,De pago,si,si,desconocido
-13,44.77714,1.00682,Pays de Belvès,Nouvelle-Aquitaine,France,Gratuito,si,no,desconocido
-14,45.05397,1.58078,Turenne,Nouvelle-Aquitaine,France,Gratuito,si,no,desconocido
-15,51.04677,13.74581,Dresden,Sachsen,Deutschland,De pago,si,no,desconocido
-16,68.30725,13.65136,Vestvågøy,Nordland,Norge,De pago,si,no,desconocido
-17,41.17643,1.32661,el Catllar,Catalunya,España,Gratuito,si,si,desconocido
-18,41.12671,0.73375,el Masroig,Catalunya,España,Gratuito,si,si,desconocido
-19,47.72945,10.31922,Kempten (Allgäu),Bayern,Deutschland,De pago,si,no,desconocido
-20,52.45926,13.58558,Berlin,Deutschland,Deutschland,De pago,si,si,desconocido
-21,41.41435,1.1727,Solivella,Catalunya,España,De pago,si,si,desconocido
-22,42.2381,0.96624,la Pobla de Segur,Catalunya,España,Gratuito,si,no,desconocido
-23,59.04898,10.03346,Larvik,Vestfold og Telemark,Norge,De pago,si,si,desconocido
-24,43.03665,-2.33781,Legazpi,Euskadi,España,Gratuito,si,si,desconocido
-25,49.4851,-1.37337,Saint-Floxel,Normandie,France,Gratuito,si,no,desconocido
-26,41.92158,2.32174,Sant Julià de Vilatorta,Catalunya,España,Gratuito,si,si,desconocido
-27,41.62198,2.68943,Pineda de Mar,Catalunya,España,De pago,desconocido,no,desconocido
-28,41.88505,12.38906,Roma,Lazio,Italia,De pago,si,si,desconocido
-29,43.44705,-3.72811,Ribamontán al Mar,Cantabria,España,De pago,si,si,desconocido
-30,44.15179,1.75121,Saint-Antonin-Noble-Val,Occitanie,France,Gratuito,si,no,desconocido
-31,48.64347,-1.99403,Saint-Malo,Bretagne,France,De pago,si,no,desconocido
-32,42.82247,0.32309,Saint-Lary-Soulan,Occitanie,France,De pago,si,si,desconocido
-33,42.23567,2.28421,Sant Joan de les Abadesses,Catalunya,España,Gratuito,si,si,si
-34,43.68666,5.7117,Saint-Paul-lès-Durance,Provence-Alpes-Côte d'Azur,France,Gratuito,si,no,desconocido
-35,41.80704,2.74448,Sils,Catalunya,España,Gratuito,si,no,desconocido
-36,45.6263,7.06263,Valgrisenche,Valle d'Aosta / Vallée d'Aoste,Italia,Gratuito,si,no,desconocido
-37,45.59389,7.20708,Valsavarenche,Valle d'Aosta / Vallée d'Aoste,Italia,De pago,si,no,desconocido
-38,46.77409,5.52248,Arlay,Bourgogne-Franche-Comté,France,Gratuito,si,si,desconocido
-39,37.59001,-4.08879,Alcaudete,Andalucía,España,Gratuito,si,no,desconocido
-40,54.31272,13.09759,Stralsund,Mecklenburg-Vorpommern,Deutschland,De pago,no,si,desconocido
-41,43.96318,6.66433,Annot,Provence-Alpes-Côte d'Azur,France,Gratuito,si,no,desconocido
-42,45.58797,3.11329,Champeix,Auvergne-Rhône-Alpes,France,Gratuito,si,no,si
-43,41.39847,1.10464,l'Espluga de Francolí,Catalunya,España,Gratuito,si,desconocido,si
-44,44.72299,3.85396,Langogne,Occitanie,France,Gratuito,si,si,si
-45,41.16679,1.45677,Creixell,Catalunya,España,De pago,si,no,si
-46,42.76222,-8.25611,Vila de Cruces,Galicia,España,Gratuito,si,no,si
-47,42.44155,-7.79195,A Peroxa,Galicia,España,Gratuito,si,si,si
-48,42.38907,-7.11513,A Rúa,Galicia,España,Gratuito,si,no,desconocido
-49,50.76145,6.10291,Aachen,Nordrhein-Westfalen,Deutschland,De pago,si,si,si
-50,37.15425,-2.77737,Abla,Andalucía,España,Gratuito,si,si,si
-51,42.75889,-8.02111,Agolada,Galicia,España,Gratuito,si,no,si
-52,41.84743,-1.93007,Ágreda,Castilla y León,España,Gratuito,si,si,si
-53,42.7863,-4.25724,Aguilar de Campoo,Castilla y León,España,Gratuito,si,no,desconocido
-54,43.56522,4.19645,Aigues-Mortes,Occitanie,France,De pago,si,no,desconocido
-55,38.03745,-5.71036,Alanís,Andalucía,España,Gratuito,si,no,si
-56,41.12133,-0.50825,Albalate del Arzobispo,Aragón,España,Gratuito,si,no,si
-57,39.38959,-3.21934,Alcázar de San Juan,Castilla-La Mancha,España,Gratuito,si,no,si
-58,41.26326,1.1729,Alcover,Catalunya,España,De pago,si,no,si
-59,62.47643,6.15842,Ålesund,Møre og Romsdal,Norge,De pago,si,no,si
-60,41.43594,-1.23827,Alfamén,Aragón,España,Gratuito,si,no,si
-61,48.22077,11.62534,München,Bayern,Deutschland,De pago,si,si,desconocido
-62,36.69709,-2.79397,El Ejido,Andalucía,España,De pago,si,si,si
-63,50.74863,9.27856,Alsfeld,Hessen,Deutschland,De pago,si,no,si
-64,69.98899,23.48611,Alta,Troms og Finnmark,Norge,Gratuito,si,si,si
-65,45.78528,8.44087,Vacciago,Piemonte,Italia,Gratuito,si,no,si
-66,49.24773,6.13846,Hagondange,Grand Est,France,Gratuito,si,si,si
-67,44.74496,-1.11095,Andernos-les-Bains,Nouvelle-Aquitaine,France,De pago,si,si,si
-68,40.98399,-0.44725,Andorra,Aragón,España,Gratuito,si,no,si
-69,37.0213,-4.57154,Antequera,Andalucía,España,Gratuito,si,no,si
-70,43.5595,12.42003,Apecchio,Marche,Italia,Gratuito,si,no,desconocido
-71,41.67026,-3.69273,Aranda de Duero,Castilla y León,España,Gratuito,si,no,desconocido
-72,43.47195,11.88764,Arezzo,Toscana,Italia,De pago,si,si,desconocido
-73,42.17361,-1.59155,Arguedas,Navarra - Nafarroa,España,Gratuito,si,no,si
-74,42.21404,-2.23987,Arnedillo,La Rioja,España,Gratuito,si,si,desconocido
-75,50.29442,2.78836,Saint-Laurent-Blangy,Hauts-de-France,France,Gratuito,si,no,si
-76,49.33906,-0.6258,Arromanches-les-Bains,Normandie,France,Gratuito,si,si,si
-77,42.58921,-2.0957,Arróniz,Navarra - Nafarroa,España,Gratuito,si,no,si
-78,42.87507,-0.39439,Laruns,Nouvelle-Aquitaine,France,Gratuito,si,desconocido,si
-79,42.08722,-8.41389,As Neves,Galicia,España,Gratuito,si,desconocido,si
-80,42.81034,-7.10733,As Nogais,Galicia,España,Gratuito,si,no,si
-81,41.18698,0.56835,Ascó,Catalunya,España,Gratuito,si,no,desconocido
-82,42.45136,-6.06599,Astorga,Castilla y León,España,Gratuito,si,no,desconocido
-83,43.63736,0.58601,Auch,Occitanie,France,De pago,si,si,desconocido
-84,47.66396,-2.97342,Auray,Bretagne,France,Gratuito,si,no,si
-85,45.0518,6.07838,Auris,Auvergne-Rhône-Alpes,France,Gratuito,si,no,si
-86,46.95545,4.3163,Autun,Bourgogne-Franche-Comté,France,Gratuito,si,si,si
-87,45.07324,7.39034,Avigliana,Piemonte,Italia,Gratuito,si,no,si
-88,47.21286,0.17715,Avoine,Centre-Val de Loire,France,De pago,si,no,si
-89,42.65421,-2.0455,Iratxe,Navarra - Nafarroa,España,Gratuito,si,no,si
-90,50.31196,9.79737,Bad Brückenau,Bayern,Deutschland,De pago,si,no,si
-91,38.88471,-6.97873,Badajoz,Extremadura,España,Gratuito,si,si,si
-92,48.78174,8.20428,Baden-Baden,Baden-Württemberg,Deutschland,De pago,si,no,si
-93,37.99629,-3.45957,Baeza,Andalucía,España,Gratuito,si,no,si
-94,43.0733,0.15366,Bagnères-de-Bigorre,Occitanie,France,Gratuito,si,no,desconocido
-95,45.97138,6.0312,Dalmaz,Auvergne-Rhône-Alpes,France,De pago,si,no,desconocido
-96,46.22619,14.70403,Kamnik,Slovenija,Slovenija,Gratuito,si,no,si
-97,49.88608,10.90295,Bamberg,Bayern,Deutschland,De pago,si,no,si
-98,43.33976,-8.35468,Oleiros,Galicia,España,Gratuito,si,no,si
-99,47.67176,12.01018,Bayrischzell,Bayern,Deutschland,De pago,si,desconocido,si
-100,47.01776,4.83685,Beaune,Bourgogne-Franche-Comté,France,Gratuito,si,no,si
-101,42.85283,-7.15322,Becerreá,Galicia,España,Gratuito,si,no,si
-102,44.12493,5.17239,Bédoin,Provence-Alpes-Côte d'Azur,France,De pago,si,si,si
-103,46.20135,9.01748,Bellinzona,Ticino,Schweiz/Suisse/Svizzera/Svizra,De pago,si,no,si
-104,46.13766,12.2141,Belluno,Veneto,Italia,De pago,si,si,si
-105,41.24624,1.56985,Bellvei,Catalunya,España,De pago,si,si,si
-106,39.70905,-1.10108,Benagéber,Comunitat Valenciana,España,Gratuito,si,no,si
-107,43.1034,-2.42424,Bergara,Euskadi,España,Gratuito,si,no,si
-108,44.87108,0.50389,Bergerac,Nouvelle-Aquitaine,France,Gratuito,si,no,desconocido
-109,43.4233,-2.72611,Bermeo,Euskadi,España,Gratuito,si,no,desconocido
-110,44.36954,-0.24272,Bernos-Beaulac,Nouvelle-Aquitaine,France,De pago,si,no,si
-111,42.84038,-1.6652,Berriozar,Navarra - Nafarroa,España,Gratuito,si,no,si
-112,39.57951,-0.44537,Bétera,Comunitat Valenciana,España,De pago,si,si,desconocido
-113,43.4659,-1.57174,Biarritz,Nouvelle-Aquitaine,France,De pago,si,no,si
-114,39.13286,-0.79065,Bicorp,Comunitat Valenciana,España,De pago,si,si,desconocido
-115,49.96882,7.94462,Bingen am Rhein,Rheinland-Pfalz,Deutschland,De pago,si,no,si
-116,44.45887,-1.24529,La Teste-de-Buch,Nouvelle-Aquitaine,France,De pago,si,no,desconocido
-117,50.0537,11.7935,Rangen,Bayern,Deutschland,Gratuito,si,si,si
-118,43.42094,-6.8145,El Serredo,Asturias / Asturies,España,Gratuito,si,no,si
-119,42.87276,-5.32588,Boñar,Castilla y León,España,Gratuito,si,no,desconocido
-120,44.17784,0.66167,Boé,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-121,48.68872,8.1292,Bühl,Baden-Württemberg,Deutschland,De pago,si,no,desconocido
-122,46.47317,11.33717,Bolzano - Bozen,Trentino-Alto Adige/Südtirol,Italia,De pago,si,no,si
-123,45.39896,2.49721,Bort-les-Orgues,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-124,50.74415,1.59751,Boulogne-sur-Mer,Hauts-de-France,France,De pago,si,desconocido,si
-125,47.07638,2.39861,Bourges,Centre-Val de Loire,France,Gratuito,si,si,desconocido
-126,43.17786,0.97461,Boussens,Occitanie,France,Gratuito,si,no,si
-127,44.48413,1.644,Bouziès,Occitanie,France,De pago,si,si,desconocido
-128,46.33312,13.53951,Bovec,Slovenija,Slovenija,De pago,si,no,desconocido
-129,41.80398,-6.74596,Bragança,Bragança,Portugal,Gratuito,si,si,desconocido
-130,45.3791,0.64585,Brantôme en Périgord,Nouvelle-Aquitaine,France,Gratuito,desconocido,desconocido,desconocido
-131,45.36042,0.64791,Brantôme en Périgord,Nouvelle-Aquitaine,France,De pago,si,no,desconocido
-132,45.92608,7.62047,Breuil-Cervinia,Valle d'Aosta / Vallée d'Aoste,Italia,De pago,si,no,si
-133,44.00515,2.69351,Broquiès,Occitanie,France,Gratuito,si,si,si
-134,45.33291,-0.04577,Brossac,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-135,40.36809,-2.76267,Garcinarro,Castilla-La Mancha,España,De pago,si,si,si
-136,39.40275,8.40184,Bugerru/Buggerru,Sardigna/Sardegna,Italia,De pago,si,no,si
-137,43.6532,-7.35838,Burela,Galicia,España,Gratuito,si,no,desconocido
-138,42.35139,-3.68056,Burgos,Castilla y León,España,Gratuito,si,no,si
-139,36.81611,-2.14961,Níjar,Andalucía,España,De pago,si,si,si
-140,44.44022,1.4409,Cahors,Occitanie,France,Gratuito,si,no,desconocido
-141,41.73494,1.51397,Calaf,Catalunya,España,Gratuito,si,no,desconocido
-142,41.35056,-1.64679,Calatayud,Aragón,España,Gratuito,si,no,si
-143,48.2741,-4.60858,Camaret-sur-Mer,Bretagne,France,De pago,si,no,desconocido
-144,43.01819,0.17829,Campan,Occitanie,France,Gratuito,si,si,desconocido
-145,46.09956,14.51606,Ljubljana,Slovenija,Slovenija,De pago,si,si,desconocido
-146,38.93856,-0.1527,l'Alqueria de la Comtessa,Comunitat Valenciana,España,De pago,si,si,si
-147,44.568,2.58947,Campuac,Occitanie,France,Gratuito,si,si,si
-148,43.58487,-5.77208,Candás,Asturias / Asturies,España,Gratuito,si,no,si
-149,43.3526,-5.12553,Cangas de Onís / Cangues d'Onís,Asturias / Asturies,España,Gratuito,si,no,desconocido
-150,42.25536,-8.79764,Cangas,Galicia,España,Gratuito,si,no,si
-151,40.52591,-0.40742,Cantavieja,Aragón,España,Gratuito,si,no,si
-152,43.63606,-1.44719,Capbreton,Nouvelle-Aquitaine,France,De pago,si,si,si
-153,41.33796,-1.23041,Cariñena,Aragón,España,Gratuito,si,no,si
-154,43.73358,-7.87437,Cariño,Galicia,España,Gratuito,si,no,si
-155,47.58462,-3.08237,Carnac,Bretagne,France,Gratuito,si,si,si
-156,42.84105,-9.09585,Carnota,Galicia,España,Gratuito,si,no,si
-157,42.33812,-4.608,Carrión de los Condes,Castilla y León,España,Gratuito,si,no,desconocido
-158,43.47287,-0.93416,Salies-de-Béarn,Nouvelle-Aquitaine,France,De pago,si,no,si
-159,37.61503,-1.00549,Cartagena,Región de Murcia,España,De pago,si,si,si
-160,45.18262,-0.5835,Cartelègue,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-161,42.54583,-2.91472,Casalarreina,La Rioja,España,Gratuito,si,no,si
-162,44.63341,8.73269,Casaleggio Boiro,Piemonte,Italia,Gratuito,si,no,si
-163,44.31055,0.07896,Casteljaloux,Nouvelle-Aquitaine,France,Gratuito,desconocido,desconocido,desconocido
-164,43.84601,6.5165,Castellane,Provence-Alpes-Côte d'Azur,France,De pago,si,no,desconocido
-165,36.28332,-5.42141,Castellar de la Frontera,Andalucía,España,Gratuito,si,no,si
-166,42.99998,1.34027,Castelnau-Durban,Occitanie,France,Gratuito,si,no,si
-167,44.27445,1.35239,Castelnau-Montratier-Sainte-Alauzie,Occitanie,France,Gratuito,si,no,desconocido
-168,41.03967,-8.27381,Castelo de Paiva,Aveiro,Portugal,Gratuito,si,no,si
-169,45.73949,7.48541,Fénis,Valle d'Aosta / Vallée d'Aoste,Italia,Gratuito,si,no,si
-170,39.66098,-2.38315,Castillo de Garcimuñoz,Castilla-La Mancha,España,Gratuito,si,no,si
-171,42.37476,-7.41793,Castro Caldelas,Galicia,España,Gratuito,si,no,si
-172,37.22004,-7.44465,Castro Marim,Faro,Portugal,Gratuito,si,no,desconocido
-173,41.72947,1.52606,Calaf,Catalunya,España,De pago,si,no,si
-174,50.07606,3.64633,Catillon-sur-Sambre,Hauts-de-France,France,Gratuito,si,no,si
-175,47.6332,7.01866,Chavannes-sur-l'Étang,Grand Est,France,De pago,si,no,si
-176,52.62772,10.07243,Celle,Niedersachsen,Deutschland,Gratuito,si,no,si
-177,48.11816,-1.59108,Cesson-Sévigné,Bretagne,France,Gratuito,si,no,si
-178,38.08146,-1.26612,Ceutí,Región de Murcia,España,Gratuito,si,no,si
-179,47.33826,-1.26556,Orée d'Anjou,Pays de la Loire,France,De pago,si,si,si
-180,45.82484,0.45165,Chasseneuil-sur-Bonnieure,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-181,47.70314,-1.37806,Châteaubriant,Pays de la Loire,France,Gratuito,si,no,desconocido
-182,45.59879,-0.05668,Châteauneuf-sur-Charente,Nouvelle-Aquitaine,France,De pago,si,no,si
-183,44.00462,10.56248,Borgo a Mozzano,Toscana,Italia,Gratuito,si,no,si
-184,49.05415,7.43442,Bitche,Grand Est,France,Gratuito,si,si,si
-185,55.65903,12.55779,København,Region Hovedstaden,Danmark,De pago,si,si,si
-186,41.42423,2.20726,Barcelona,Catalunya,España,De pago,si,si,desconocido
-187,48.91888,-0.48117,Clécy,Normandie,France,Gratuito,si,si,si
-188,45.60844,7.35834,Cogne,Valle d'Aosta / Vallée d'Aoste,Italia,De pago,si,desconocido,si
-189,40.19993,-8.42958,Coimbra,Coimbra,Portugal,Gratuito,si,no,si
-190,43.3804,-4.55387,Ribadedeva,Asturias / Asturies,España,Gratuito,si,no,si
-191,41.36527,2.02558,Santa Coloma de Cervelló,Catalunya,España,Gratuito,si,si,desconocido
-192,43.48468,-5.26054,Colunga,Asturias / Asturies,España,De pago,si,si,si
-193,43.70624,6.50646,Comps-sur-Artuby,Provence-Alpes-Côte d'Azur,France,Gratuito,si,si,si
-194,47.87897,-3.92052,Concarneau,Bretagne,France,De pago,si,si,si
-195,46.65264,5.59955,Conliège,Bourgogne-Franche-Comté,France,Gratuito,si,si,desconocido
-196,39.47701,-8.34332,Praia do Ribatejo,Santarém,Portugal,Gratuito,si,si,si
-197,44.09353,-1.31921,Saint-Julien-en-Born,Nouvelle-Aquitaine,France,De pago,si,si,si
-198,44.06432,1.95788,Cordes-sur-Ciel,Occitanie,France,De pago,si,no,si
-199,43.23353,-4.39832,Rionansa,Cantabria,España,Gratuito,si,si,desconocido
-200,46.29857,0.1783,Valence-en-Poitou,Nouvelle-Aquitaine,France,Gratuito,si,si,si
-201,44.77655,-0.34809,Créon,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-202,46.45903,1.60571,Cuzion,Centre-Val de Loire,France,Gratuito,si,no,si
-203,47.24089,-0.0226,Saumur,Pays de la Loire,France,De pago,si,si,si
-204,43.28942,-1.50419,Urdazubi/Urdax,Navarra - Nafarroa,España,Gratuito,si,no,si
-205,43.71435,-1.04945,Dax,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-206,38.7005,-8.06401,Arraiolos,Évora,Portugal,Gratuito,si,no,si
-207,42.89361,-0.11256,Cauterets,Occitanie,France,De pago,si,si,si
-208,40.11313,-8.49521,Condeixa-a-Nova,Coimbra,Portugal,Gratuito,si,no,si
-209,43.30792,-2.01442,Donostia - San Sebastián,Euskadi,España,De pago,si,no,desconocido
-210,43.56322,-7.25775,Foz,Galicia,España,Gratuito,si,no,si
-211,48.24051,5.60792,Bourmont-entre-Meuse-et-Mouzon,Grand Est,France,De pago,si,no,desconocido
-212,48.45451,-2.02963,Lanvallay,Bretagne,France,Gratuito,si,si,si
-213,42.98787,-0.4224,Laruns,Nouvelle-Aquitaine,France,De pago,si,si,desconocido
-214,37.16536,-7.51994,Vila Nova de Cacela,Faro,Portugal,De pago,si,no,si
-215,43.52395,13.43666,Offagna,Marche,Italia,Gratuito,si,no,si
-216,49.92636,2.92651,Péronne,Hauts-de-France,France,Gratuito,si,desconocido,si
-217,42.51855,-4.74117,Saldaña,Castilla y León,España,Gratuito,si,no,desconocido
-218,38.91809,-9.3835,São João das Lampas e Terrugem,Lisboa,Portugal,Gratuito,si,no,si
-219,43.31207,-1.58398,Sare,Nouvelle-Aquitaine,France,De pago,si,si,si
-220,48.23335,7.40611,Orschwiller,Grand Est,France,Gratuito,si,si,si
-221,42.52634,-1.68285,Tafalla,Navarra - Nafarroa,España,Gratuito,si,si,si
-222,42.16312,0.89043,Tremp,Catalunya,España,Gratuito,si,no,desconocido
-223,45.43375,10.97838,Verona,Veneto,Italia,De pago,si,no,desconocido
-224,43.7793,-1.40689,Vieux-Boucau-les-Bains,Nouvelle-Aquitaine,France,De pago,si,si,desconocido
-225,41.49793,-5.74347,Zamora,Castilla y León,España,Gratuito,si,si,desconocido
-226,52.72125,6.07499,Giethoorn,Overijssel,Nederland,De pago,si,si,si
-227,42.1523,2.54679,Santa Pau,Catalunya,España,De pago,si,si,desconocido
-228,43.59621,-1.45486,Labenne,Nouvelle-Aquitaine,France,De pago,si,si,si
-229,49.80102,10.16844,Dettelbach,Bayern,Deutschland,De pago,si,no,si
-230,49.93013,1.0866,Dieppe,Normandie,France,De pago,si,si,si
-231,46.48085,3.97131,Digoin,Bourgogne-Franche-Comté,France,Gratuito,si,si,si
-232,49.07818,10.32908,Dinkelsbühl,Bayern,Deutschland,De pago,si,si,si
-233,44.80049,1.22165,Domme,Nouvelle-Aquitaine,France,De pago,si,no,desconocido
-234,42.87535,0.97549,Bonac-Irazein,Occitanie,France,Gratuito,si,si,si
-235,50.05831,1.36404,Le Tréport,Normandie,France,De pago,si,si,desconocido
-236,49.4717,6.07812,Dudelange,Canton Esch-sur-Alzette,Lëtzebuerg,Gratuito,si,no,si
-237,42.86144,2.5655,Duilhac-sous-Peyrepertuse,Occitanie,France,Gratuito,si,si,desconocido
-238,41.9526,-2.92624,Duruelo de la Sierra,Castilla y León,España,Gratuito,si,no,si
-239,43.27809,-5.67451,Llangréu/Langreo,Asturias / Asturies,España,Gratuito,si,no,si
-240,43.28637,-5.63889,Samartín del Rei Aurelio,Asturias / Asturies,España,Gratuito,si,no,si
-241,42.9565,-6.09289,Cabrillanes,Castilla y León,España,De pago,si,desconocido,si
-242,36.59877,-6.22103,El Puerto de Santa María,Andalucía,España,De pago,no,no,desconocido
-243,42.51499,-2.61568,Elciego,Euskadi,España,Gratuito,si,si,si
-244,47.73905,-2.58073,Elven,Bretagne,France,Gratuito,si,si,desconocido
-245,41.85776,3.11505,Palamós,Catalunya,España,De pago,si,no,si
-246,42.53263,1.57858,Encamp,Andorra,Andorra,De pago,si,si,desconocido
-247,41.93261,-8.12141,Entrimo,Galicia,España,Gratuito,si,no,desconocido
-248,42.93374,2.21584,Espéraza,Occitanie,France,Gratuito,si,no,si
-249,43.08566,-3.55759,Espinosa de los Monteros,Castilla y León,España,Gratuito,si,no,si
-250,42.97912,-0.74806,Arette,Nouvelle-Aquitaine,France,Gratuito,si,si,desconocido
-251,45.02367,6.12393,Mont-de-Lans,Auvergne-Rhône-Alpes,France,De pago,no,no,desconocido
-252,40.75409,-8.56634,Estarreja,Aveiro,Portugal,De pago,si,no,si
-253,49.70039,0.21611,Étretat,Normandie,France,De pago,si,no,si
-254,48.93586,8.41746,Ettlingen,Baden-Württemberg,Deutschland,Gratuito,si,no,si
-255,43.39611,-8.07639,Monfero,Galicia,España,De pago,si,si,si
-256,48.87739,2.78579,Chessy,Île-de-France,France,De pago,si,si,desconocido
-257,42.39275,-1.79573,Falces,Navarra - Nafarroa,España,Gratuito,si,no,si
-258,54.94865,11.98694,Vordingborg Kommune,Region Sjælland,Danmark,Gratuito,si,si,desconocido
-259,39.63222,-8.67272,Ourém,Santarém,Portugal,Gratuito,si,si,desconocido
-260,45.74963,6.28631,Faverges-Seythenex,Auvergne-Rhône-Alpes,France,Gratuito,si,no,si
-261,49.76029,0.37427,Fécamp,Normandie,France,Gratuito,no,no,si
-262,47.48877,7.31173,Ferrette,Grand Est,France,Gratuito,si,desconocido,si
-263,43.49342,-8.24015,Ferrol,Galicia,España,Gratuito,si,no,desconocido
-264,44.1654,8.33785,Finale Ligure,Liguria,Italia,De pago,si,no,si
-265,44.32586,3.59044,Florac Trois Rivières,Occitanie,France,Gratuito,si,si,si
-266,42.79736,-8.58452,Teo,Galicia,España,Gratuito,si,no,si
-267,43.34309,-6.8519,Illano,Asturias / Asturies,España,Gratuito,si,no,si
-268,44.56051,-0.02138,Fontet,Nouvelle-Aquitaine,France,De pago,si,si,desconocido
-269,48.35518,-1.21102,Fougères,Bretagne,France,Gratuito,si,no,desconocido
-270,45.98174,-1.087,Fouras,Nouvelle-Aquitaine,France,De pago,si,no,desconocido
-271,43.99403,0.22974,Fourcès,Occitanie,France,De pago,si,si,si
-272,39.42841,-9.2201,Foz do Arelho,Leiria,Portugal,De pago,si,si,si
-273,38.16982,-6.64944,Fregenal de la Sierra,Extremadura,España,Gratuito,si,si,si
-274,42.76033,-3.29598,Frías,Castilla y León,España,De pago,si,no,si
-275,47.99943,7.82561,Freiburg im Breisgau,Baden-Württemberg,Deutschland,De pago,si,no,si
-276,42.26485,-4.41215,Frómista,Castilla y León,España,Gratuito,si,no,si
-277,50.55692,9.66611,Fulda,Hessen,Deutschland,De pago,si,si,si
-278,44.49813,0.97209,Fumel,Nouvelle-Aquitaine,France,Gratuito,si,si,desconocido
-279,45.70166,7.87278,Gaby,Valle d'Aosta / Vallée d'Aoste,Italia,De pago,si,si,si
-280,49.00229,9.76614,Gaildorf,Baden-Württemberg,Deutschland,Gratuito,si,no,si
-281,47.50466,11.10716,Garmisch-Partenkirchen,Bayern,Deutschland,De pago,si,si,si
-282,42.73823,-0.01932,Gavarnie-Gèdre,Occitanie,France,De pago,si,no,si
-283,46.57769,4.23505,Génelard,Bourgogne-Franche-Comté,France,Gratuito,si,si,desconocido
-284,43.91512,5.19763,Gordes,Provence-Alpes-Côte d'Azur,France,De pago,si,no,si
-285,43.57368,2.96758,Mons,Occitanie,France,De pago,si,si,si
-286,44.73399,1.38481,Gourdon,Occitanie,France,Gratuito,si,no,si
-287,43.21565,-6.87588,Grandas de Salime,Asturias / Asturies,España,Gratuito,si,no,si
-288,39.9799,0.02274,Castelló de la Plana,Comunitat Valenciana,España,Gratuito,si,si,si
-289,43.09594,3.11004,Gruissan,Occitanie,France,De pago,si,si,si
-290,47.3338,-2.42041,Guérande,Pays de la Loire,France,Gratuito,si,no,si
-291,43.17727,-7.87941,Guitiriz,Galicia,España,Gratuito,si,no,si
-292,52.09552,9.35982,Hameln,Niedersachsen,Deutschland,De pago,no,no,si
-293,51.42018,9.64856,Hann. Münden,Niedersachsen,Deutschland,De pago,si,si,si
-294,50.84602,3.31089,Harelbeke,West-Vlaanderen,België / Belgique / Belgien,De pago,si,no,si
-295,50.56852,9.34615,Herbstein,Hessen,Deutschland,Gratuito,si,no,si
-296,51.02763,9.41451,Homberg (Efze),Hessen,Deutschland,Gratuito,si,si,si
-297,41.8439,-3.16446,Hontoria del Pinar,Castilla y León,España,Gratuito,si,no,si
-298,42.77624,-1.38536,Lónguida/Longida,Navarra - Nafarroa,España,Gratuito,si,si,desconocido
-299,46.16882,14.42246,Medvode,Slovenija,Slovenija,De pago,si,si,si
-300,49.161,20.29344,Vysoké Tatry,Prešovský kraj,Slovensko,De pago,si,si,si
-301,37.18611,-4.03972,Huétor Tájar,Andalucía,España,Gratuito,si,si,si
-302,50.86823,10.96335,Ichtershausen,Thüringen,Deutschland,Gratuito,si,no,si
-303,42.53566,-8.8693,A Illa de Arousa,Galicia,España,De pago,si,no,si
-304,43.29782,-1.97101,Donostia - San Sebastián,Euskadi,España,Gratuito,si,no,si
-305,37.26221,-1.85359,Vera,Andalucía,España,De pago,si,si,no
-306,44.5446,-0.25736,Langon,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-307,42.56766,-0.54552,Jaca,Aragón,España,Gratuito,si,no,si
-308,39.18758,-1.07611,Jalance,Comunitat Valenciana,España,Gratuito,si,no,si
-309,47.62161,-1.61161,Jans,Pays de la Loire,France,Gratuito,si,si,si
-310,65.14335,21.50917,Jävre,Norrbottens län,Sverige,Gratuito,si,si,si
-311,59.0173,6.0439,Jørpeland,Rogaland,Norge,De pago,si,si,no
-312,47.95631,-2.55029,Josselin,Bretagne,France,Gratuito,si,si,desconocido
-313,49.4308,0.81484,Jumièges,Normandie,France,Gratuito,si,no,si
-314,56.68133,16.38084,Kalmar,Kalmar län,Sverige,Gratuito,si,si,si
-315,56.16987,15.59416,Karlskrona,Blekinge län,Sverige,Gratuito,si,no,si
-316,48.13608,7.26188,Kaysersberg-Vignoble,Grand Est,France,De pago,si,si,si
-317,48.5634,7.8165,Kehl,Baden-Württemberg,Deutschland,De pago,si,no,si
-318,47.52218,-2.8584,Saint-Gildas-de-Rhuys,Bretagne,France,De pago,si,no,si
-319,52.01281,4.71607,Gouda,Zuid-Holland,Nederland,De pago,no,si,desconocido
-320,43.25968,-2.96401,Bilbao,Euskadi,España,De pago,si,si,desconocido
-321,48.33522,16.29915,Gemeinde Klosterneuburg,Niederösterreich,Österreich,Gratuito,si,no,si
-322,40.65913,0.67527,Amposta,Catalunya,España,Gratuito,si,si,desconocido
-323,40.48848,-6.11623,La Alberca,Castilla y León,España,Gratuito,si,no,si
-324,41.91119,-4.78079,Ampudia,Castilla y León,España,Gratuito,si,no,si
-325,48.60376,-1.47701,Pontorson,Normandie,France,De pago,si,si,desconocido
-326,39.39714,-2.43577,San Clemente,Castilla-La Mancha,España,Gratuito,si,desconocido,si
-327,46.96568,-2.21501,La Guérinière,Pays de la Loire,France,De pago,si,no,si
-328,39.89176,-0.95707,La Yesa,Comunitat Valenciana,España,Gratuito,si,no,si
-329,43.15947,-6.10098,Teverga,Asturias / Asturies,España,Gratuito,si,no,si
-330,37.9593,-2.4313,Puebla de Don Fadrique,Andalucía,España,Gratuito,si,no,si
-331,46.6683,-1.4184,La Roche-sur-Yon,Pays de la Loire,France,Gratuito,si,si,si
-332,40.41604,0.1727,la Salzadella,Comunitat Valenciana,España,Gratuito,si,no,si
-333,42.35876,1.46506,la Seu d'Urgell,Catalunya,España,Gratuito,si,no,si
-334,44.10417,9.85907,La Spezia,Liguria,Italia,De pago,si,desconocido,si
-335,44.65154,-1.1481,La Teste-de-Buch,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-336,44.82434,1.18395,La Roque-Gageac,Nouvelle-Aquitaine,France,De pago,si,no,si
-337,42.58719,-2.79458,Labastida/Bastida,Euskadi,España,Gratuito,si,no,desconocido
-338,44.32886,-1.15096,Gastes,Nouvelle-Aquitaine,France,De pago,si,si,si
-339,48.93806,5.71451,Heudicourt-sous-les-Côtes,Grand Est,France,De pago,si,si,si
-340,47.47935,1.31891,Le Controis-en-Sologne,Centre-Val de Loire,France,Gratuito,si,si,si
-341,43.64677,3.38939,Clermont-l'Hérault,Occitanie,France,De pago,si,si,si
-342,44.48619,-1.08447,Sanguinet,Nouvelle-Aquitaine,France,De pago,si,si,si
-343,46.46733,5.69212,Maisod,Bourgogne-Franche-Comté,France,De pago,si,si,si
-344,46.8125,6.30367,Saint-Point-Lac,Bourgogne-Franche-Comté,France,De pago,si,si,desconocido
-345,37.11581,-8.67895,Lagos,Faro,Portugal,De pago,si,si,si
-346,43.09275,2.62028,Lagrasse,Occitanie,France,De pago,si,si,si
-347,48.44747,-4.77684,Lampaul-Plouarzel,Bretagne,France,De pago,si,si,desconocido
-348,48.49433,-4.03826,Lampaul-Guimiliau,Bretagne,France,Gratuito,desconocido,no,si
-349,43.2176,-3.43927,Lanestosa,Euskadi,España,De pago,si,si,si
-350,59.32021,18.03195,Stockholm,Stockholms län,Sverige,De pago,si,si,si
-351,44.52666,-0.21663,Langon,Nouvelle-Aquitaine,France,De pago,si,si,si
-352,43.70418,2.12998,Lautrec,Occitanie,France,Gratuito,si,no,si
-353,42.52724,2.83773,Le Boulou,Occitanie,France,Gratuito,si,si,desconocido
-354,43.28591,3.51746,Agde,Occitanie,France,De pago,si,no,desconocido
-355,48.708,-3.82716,Le Diben,Bretagne,France,Gratuito,si,si,si
-356,43.15187,6.43199,Le Lavandou,Provence-Alpes-Côte d'Azur,France,De pago,si,si,desconocido
-357,45.54596,-1.05453,Le Verdon-sur-Mer,Nouvelle-Aquitaine,France,De pago,si,no,desconocido
-358,43.35839,-2.5072,Lekeitio,Euskadi,España,Gratuito,si,desconocido,desconocido
-359,44.88311,0.52525,Lembras,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-360,42.60462,-5.58494,León,Castilla y León,España,Gratuito,si,si,si
-361,42.23575,2.28419,Sant Joan de les Abadesses,Catalunya,España,Gratuito,si,no,si
-362,42.56351,2.06857,Les Angles,Occitanie,France,De pago,si,si,si
-363,44.93427,6.73533,Montgenèvre,Provence-Alpes-Côte d'Azur,France,De pago,si,no,si
-364,46.22943,-1.4834,Les Portes-en-Ré,Nouvelle-Aquitaine,France,De pago,si,si,no
-365,44.93885,1.00952,Les Eyzies,Nouvelle-Aquitaine,France,De pago,si,si,desconocido
-366,42.91385,3.01995,Leucate,Occitanie,France,De pago,si,desconocido,si
-367,42.90023,3.05271,Leucate,Occitanie,France,De pago,si,si,si
-368,47.55847,9.70041,Lindau (Bodensee),Bayern,Deutschland,De pago,si,no,si
-369,43.86204,1.81846,Lisle-sur-Tarn,Occitanie,France,Gratuito,si,no,desconocido
-370,43.26799,-1.90135,Errenteria,Euskadi,España,Gratuito,si,si,si
-371,45.41292,7.46294,Locana,Piemonte,Italia,De pago,si,si,si
-372,48.09817,-4.2124,Locronan,Bretagne,France,De pago,si,desconocido,si
-373,42.47809,-2.45729,Logroño,La Rioja,España,Gratuito,si,no,desconocido
-374,39.33305,-5.47919,Polígono industrial de Logrosán,Extremadura,España,Gratuito,si,no,desconocido
-375,38.07944,-1.25806,Lorquí,Región de Murcia,España,Gratuito,si,no,si
-376,43.84024,10.4886,Lucca,Toscana,Italia,De pago,si,si,desconocido
-377,45.46066,10.63311,Sirmione,Lombardia,Italia,De pago,si,si,si
-378,43.00445,-7.56139,Lugo,Galicia,España,Gratuito,si,no,desconocido
-379,43.40706,-5.81086,Siero,Asturias / Asturies,España,Gratuito,si,no,si
-380,42.40932,-7.72207,Nogueira de Ramuín,Galicia,España,Gratuito,si,no,si
-381,45.43396,7.22823,Ceresole Reale,Piemonte,Italia,De pago,si,si,si
-382,42.63352,-8.85318,Abanqueiro,Galicia,España,Gratuito,si,si,desconocido
-383,41.53762,-6.95713,Macedo de Cavaleiros,Bragança,Portugal,Gratuito,si,no,desconocido
-384,43.04908,-5.18356,Maraña,Castilla y León,España,De pago,si,si,si
-385,45.91843,9.31547,Mandello del Lario,Lombardia,Italia,De pago,si,no,si
-386,50.80368,8.77528,Marburg,Hessen,Deutschland,De pago,si,si,si
-387,43.67857,10.27903,Pisa,Toscana,Italia,De pago,si,si,si
-388,42.86634,9.34382,Barrettali,Corse,France,De pago,si,no,si
-389,52.4565,5.10465,Marken,Noord-Holland,Nederland,De pago,no,si,desconocido
-390,37.88929,12.47127,Marsala,Sicilia,Italia,Gratuito,si,si,si
-391,46.8055,1.03811,Martizay,Centre-Val de Loire,France,Gratuito,si,si,desconocido
-392,41.36806,1.77321,Avinyonet del Penedès,Catalunya,España,Gratuito,si,no,desconocido
-393,42.07503,3.09813,Bellcaire d'Empordà,Catalunya,España,De pago,si,si,desconocido
-394,50.32236,7.22835,Mayen,Rheinland-Pfalz,Deutschland,Gratuito,si,no,no
-395,41.17138,-2.43203,Medinaceli,Castilla y León,España,Gratuito,si,no,desconocido
-396,68.4941,14.81341,Melbu,Nordland,Norge,De pago,si,desconocido,si
-397,47.40462,-2.49115,Quimiac,Pays de la Loire,France,Gratuito,no,no,desconocido
-398,43.81613,-1.40081,Messanges,Nouvelle-Aquitaine,France,De pago,si,si,desconocido
-399,43.43304,0.30922,Miélan,Occitanie,France,Gratuito,si,si,si
-400,44.21276,-1.2821,Mimizan,Nouvelle-Aquitaine,France,De pago,si,no,desconocido
-401,43.08502,1.87394,Mirepoix,Occitanie,France,Gratuito,si,si,si
-402,43.42769,-7.37014,Mondoñedo,Galicia,España,Gratuito,si,no,desconocido
-403,50.554,6.2322,Monschau,Nordrhein-Westfalen,Deutschland,De pago,si,no,si
-404,42.50764,2.12249,Mont-Louis,Occitanie,France,De pago,si,no,si
-405,47.50663,6.79132,Montbéliard,Bourgogne-Franche-Comté,France,Gratuito,si,no,desconocido
-406,45.21796,-0.18348,Montguyon,Nouvelle-Aquitaine,France,Gratuito,si,si,si
-407,47.15773,1.20173,Montrésor,Centre-Val de Loire,France,Gratuito,si,no,si
-408,41.91864,0.18939,Monzón,Aragón,España,Gratuito,si,si,si
-409,40.62407,-0.09144,Morella,Comunitat Valenciana,España,Gratuito,si,no,desconocido
-410,48.57417,-3.83156,Morlaix,Bretagne,France,Gratuito,si,si,si
-411,46.55806,3.32464,Moulins,Auvergne-Rhône-Alpes,France,De pago,si,no,si
-412,46.33329,0.81055,Moulismes,Nouvelle-Aquitaine,France,Gratuito,si,si,desconocido
-413,38.03972,-1.48139,Mula,Región de Murcia,España,Gratuito,si,no,si
-414,46.37796,-0.06916,Bougon,Nouvelle-Aquitaine,France,Gratuito,si,desconocido,si
-415,43.09903,-9.21275,Muxía,Galicia,España,Gratuito,si,no,si
-416,48.69226,6.19342,Nancy,Grand Est,France,De pago,si,si,desconocido
-417,46.15671,5.60363,Nantua,Auvergne-Rhône-Alpes,France,De pago,si,si,desconocido
-418,41.75669,1.90929,Navarcles,Catalunya,España,Gratuito,si,no,desconocido
-419,43.40394,-6.54168,Tineo,Asturias / Asturies,España,Gratuito,si,si,si
-420,43.545,-6.72217,Navia,Asturias / Asturies,España,Gratuito,si,si,si
-421,42.91201,-8.73342,Negreira,Galicia,España,Gratuito,si,no,si
-422,40.78257,17.23397,Alberobello,Puglia,Italia,De pago,si,no,si
-423,47.0008,-2.25208,Noirmoutier-en-l'Île,Pays de la Loire,France,De pago,si,no,si
-424,48.85535,10.48438,Nördlingen,Bayern,Deutschland,Gratuito,si,si,si
-425,46.77252,6.03648,Nozeroy,Bourgogne-Franche-Comté,France,De pago,si,si,desconocido
-426,43.53751,-7.93867,As Somozas,Galicia,España,Gratuito,si,si,si
-427,42.27555,-8.83372,Cangas,Galicia,España,De pago,si,desconocido,si
-428,43.02792,-2.40563,Oñati,Euskadi,España,Gratuito,si,si,si
-429,47.40849,10.28578,Oberstdorf,Bayern,Deutschland,De pago,si,si,si
-430,39.3564,-9.15703,Óbidos,Leiria,Portugal,De pago,si,no,desconocido
-431,49.19718,9.51126,Öhringen,Baden-Württemberg,Deutschland,De pago,si,si,desconocido
-432,42.48027,-1.64719,Olite/Erriberri,Navarra - Nafarroa,España,Gratuito,si,no,si
-433,43.18371,-0.60846,Oloron-Sainte-Marie,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-434,47.49189,7.39047,Oltingue,Grand Est,France,Gratuito,si,desconocido,si
-435,36.94139,-5.25306,Olvera,Andalucía,España,De pago,si,no,si
-436,45.93565,1.02518,Oradour-sur-Glane,Nouvelle-Aquitaine,France,Gratuito,si,si,desconocido
-437,43.17861,-1.48806,Baztan,Navarra - Nafarroa,España,Gratuito,si,no,si
-438,45.79726,8.41193,Orta San Giulio,Piemonte,Italia,Gratuito,si,si,si
-439,43.56083,-6.73389,Coaña,Asturias / Asturies,España,Gratuito,si,no,si
-440,59.91824,10.6759,Oslo,Norge,Norge,De pago,si,si,no
-441,43.56505,-7.64381,Ourol,Galicia,España,Gratuito,si,no,desconocido
-442,43.38283,-5.82377,Oviedo,Asturias / Asturies,España,Gratuito,si,no,si
-443,48.7825,-3.04694,Paimpol,Bretagne,France,Gratuito,si,no,desconocido
-444,42.38278,-7.57146,Parada de Sil,Galicia,España,Gratuito,si,si,desconocido
-445,38.649,0.06661,Calp,Comunitat Valenciana,España,De pago,si,si,si
-446,44.58931,10.53539,Vezzano sul Crostolo,Emilia-Romagna,Italia,Gratuito,si,no,si
-447,43.90804,10.21881,Camaiore,Toscana,Italia,De pago,si,si,si
-448,51.26232,1.10247,Canterbury,England,United Kingdom,De pago,si,si,si
-449,41.56393,9.33596,Porto-Vecchio,Corse,France,De pago,si,no,desconocido
-450,40.37837,0.40647,Peníscola / Peñíscola,Comunitat Valenciana,España,De pago,si,si,si
-451,37.87431,-4.78726,Córdoba,Andalucía,España,De pago,si,desconocido,desconocido
-452,37.0983,-8.24369,Albufeira,Faro,Portugal,De pago,si,si,si
-453,37.9671,-4.46118,Pedro Abad,Andalucía,España,Gratuito,si,no,si
-454,43.62857,5.15376,Pélissanne,Provence-Alpes-Côte d'Azur,France,Gratuito,si,no,si
-455,42.46894,-7.28626,Ribas de Sil,Galicia,España,Gratuito,si,no,desconocido
-456,45.18768,0.73078,Périgueux,Nouvelle-Aquitaine,France,De pago,si,no,si
-457,42.78636,0.15718,Aragnouet,Occitanie,France,De pago,si,si,si
-458,42.96053,-0.07718,Pierrefitte-Nestalas,Occitanie,France,Gratuito,si,si,desconocido
-459,40.2383,-3.6907,Pinto,Comunidad de Madrid,España,De pago,si,si,desconocido
-460,42.50571,-0.35694,Sabiñánigo,Aragón,España,De pago,si,si,si
-461,47.79894,-4.19818,Larvor,Bretagne,France,Gratuito,si,si,desconocido
-462,40.57582,0.39331,Sant Jordi / San Jorge,Comunitat Valenciana,España,De pago,si,si,si
-463,45.37474,4.44875,Planfoy,Auvergne-Rhône-Alpes,France,Gratuito,si,no,si
-464,41.81022,3.05792,Castell-Platja d'Aro,Catalunya,España,De pago,si,no,desconocido
-465,43.5445,-5.69571,Gijón/Xixón,Asturias / Asturies,España,Gratuito,si,no,si
-466,43.50672,-1.5346,Anglet,Nouvelle-Aquitaine,France,De pago,si,no,desconocido
-467,48.58029,-2.14482,Beaussais-sur-Mer,Bretagne,France,Gratuito,si,si,si
-468,48.69406,-3.79212,Plougasnou,Bretagne,France,Gratuito,si,no,si
-469,48.33771,-4.70729,Plougonvelin,Bretagne,France,De pago,si,si,si
-470,42.56932,-7.39408,A Pobra do Brollón,Galicia,España,Gratuito,si,no,si
-471,43.25484,-5.56842,Pola de Laviana,Asturias / Asturies,España,Gratuito,si,si,si
-472,43.62839,-0.82864,Pomarez,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-473,42.54372,-6.5869,Ponferrada,Castilla y León,España,Gratuito,si,no,si
-474,48.90235,6.06122,Pont-à-Mousson,Grand Est,France,De pago,si,si,si
-475,42.42291,-8.65615,Pontevedra,Galicia,España,Gratuito,si,no,si
-476,47.12075,-2.09178,Pornic,Pays de la Loire,France,Gratuito,si,no,si
-477,45.94716,-1.09008,Port-des-Barques,Nouvelle-Aquitaine,France,De pago,si,no,si
-478,42.51776,3.11373,Port-Vendres,Occitanie,France,De pago,si,si,si
-479,44.05962,9.84879,Le Grazie,Liguria,Italia,De pago,si,no,desconocido
-480,43.15212,-4.91753,Posada de Valdeón,Castilla y León,España,De pago,si,si,si
-481,40.22981,-7.22189,Meimoa,Castelo Branco,Portugal,Gratuito,si,no,si
-482,39.32651,-3.48327,Puerto Lápice,Castilla-La Mancha,España,Gratuito,si,no,si
-483,39.34073,-7.27758,Valencia de Alcántara,Extremadura,España,Gratuito,si,no,si
-484,43.5687,2.01246,Puylaurens,Occitanie,France,Gratuito,si,no,si
-485,41.93956,2.83923,Palol d'Onyar,Catalunya,España,Gratuito,si,no,si
-486,37.07342,-8.07721,Quarteira,Faro,Portugal,De pago,si,no,si
-487,51.79103,11.13946,Quedlinburg,Sachsen-Anhalt,Deutschland,De pago,si,si,si
-488,42.89456,11.77516,Radicofani,Toscana,Italia,Gratuito,si,no,si
-489,55.70675,9.26554,Vejle Kommune,Region Syddanmark,Danmark,Gratuito,si,si,si
-490,43.15689,-0.39716,Rébénacq,Nouvelle-Aquitaine,France,Gratuito,si,si,si
-491,39.98514,4.09242,es Mercadal,Illes Balears,España,De pago,si,si,si
-492,42.41864,2.91386,Cantallops,Catalunya,España,Gratuito,si,si,si
-493,42.43908,1.13397,Rialp,Catalunya,España,Gratuito,si,no,si
-494,55.32483,8.75769,Ribe,Region Syddanmark,Danmark,Gratuito,si,si,si
-495,42.20253,2.19365,Ripoll,Catalunya,España,Gratuito,si,no,si
-496,45.94459,-0.95563,Rochefort,Nouvelle-Aquitaine,France,Gratuito,si,si,si
-497,43.3984,10.42847,Rosignano Solvay,Toscana,Italia,De pago,si,no,si
-498,49.50721,9.97036,Röttingen,Bayern,Deutschland,Gratuito,si,si,desconocido
-499,47.95573,7.29559,Rouffach,Grand Est,France,Gratuito,si,si,si
-500,45.08894,13.64519,Grad Rovinj,Istarska županija,Hrvatska,De pago,si,si,desconocido
-501,42.02585,2.46492,Rupit i Pruit,Catalunya,España,De pago,si,si,si
-502,47.92057,6.66186,Rupt-sur-Moselle,Grand Est,France,Gratuito,si,no,desconocido
-503,42.55933,-2.75989,San Vicente de la Sonsierra,La Rioja,España,Gratuito,si,no,si
-504,43.35474,-8.25381,Sada,Galicia,España,Gratuito,si,no,si
-505,42.45764,2.0377,Saillagouse,Occitanie,France,Gratuito,si,si,desconocido
-506,48.18293,-3.01287,Saint-Aignan,Bretagne,France,Gratuito,si,si,si
-507,46.73438,2.48668,Saint-Amand-Montrond,Centre-Val de Loire,France,Gratuito,no,si,si
-508,45.60424,-0.99979,Saint-Georges-de-Didonne,Nouvelle-Aquitaine,France,De pago,si,no,si
-509,48.23244,7.37232,Saint-Hippolyte,Grand Est,France,Gratuito,si,no,si
-510,45.94528,-0.53689,Saint-Jean-d'Angély,Nouvelle-Aquitaine,France,De pago,si,si,si
-511,43.14181,0.92877,Saint-Martory,Occitanie,France,De pago,si,si,si
-512,48.04526,6.58173,Saint-Nabord,Grand Est,France,Gratuito,si,no,desconocido
-513,45.14795,-0.6049,Saint-Paul,Nouvelle-Aquitaine,France,Gratuito,si,no,desconocido
-514,43.73436,-1.07854,Saint-Paul-lès-Dax,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-515,44.9639,-0.40186,Saint-Romain-la-Virvée,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-516,45.38791,-0.68986,Saint-Thomas-de-Conac,Nouvelle-Aquitaine,France,Gratuito,si,no,desconocido
-517,49.65087,0.16317,Saint-Jouin-Bruneval,Normandie,France,Gratuito,si,si,no
-518,46.84505,4.6331,Saint-Léger-sur-Dheune,Bourgogne-Franche-Comté,France,Gratuito,si,si,desconocido
-519,43.26457,6.67275,Saint-Tropez,Provence-Alpes-Côte d'Azur,France,De pago,si,si,si
-520,42.85337,-2.38521,Agurain/Salvatierra,Euskadi,España,Gratuito,si,no,si
-521,41.90606,0.33159,San Esteban de Litera,Aragón,España,Gratuito,si,si,si
-522,45.46794,12.27851,Mestre,Veneto,Italia,De pago,si,si,desconocido
-523,43.38525,-1.66291,Saint-Jean-de-Luz,Nouvelle-Aquitaine,France,De pago,si,no,desconocido
-524,41.88429,2.50802,Sant Hilari Sacalm,Catalunya,España,Gratuito,si,no,si
-525,42.13664,1.59284,Sant Llorenç de Morunys,Catalunya,España,De pago,si,si,si
-526,43.25778,-7.01861,Santa Eulalia de Oscos,Asturias / Asturies,España,Gratuito,si,no,si
-527,42.89755,-8.53028,Santiago de Compostela,Galicia,España,Gratuito,no,no,desconocido
-528,42.40952,-8.86183,Soutullo,Galicia,España,De pago,si,si,desconocido
-529,44.89558,1.21243,Sarlat-la-Canéda,Nouvelle-Aquitaine,France,De pago,si,no,desconocido
-530,43.40312,-0.38763,Sauvagnon,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-531,44.21627,2.31694,Sauveterre-de-Rouergue,Occitanie,France,Gratuito,si,si,si
-532,47.81525,8.18096,Schluchsee,Baden-Württemberg,Deutschland,De pago,si,no,si
-533,43.51267,16.1796,Seget Vranjica,Splitsko-dalmatinska županija,Hrvatska,De pago,si,si,si
-534,39.84806,-0.48167,Segorbe,Comunitat Valenciana,España,Gratuito,si,no,si
-535,40.94103,-4.10818,Segovia,Castilla y León,España,Gratuito,si,no,si
-536,43.6924,-1.42621,Le Penon,Nouvelle-Aquitaine,France,De pago,si,si,si
-537,46.26622,4.09068,Semur-en-Brionnais,Bourgogne-Franche-Comté,France,Gratuito,si,si,desconocido
-538,43.36629,3.6163,Sète,Occitanie,France,De pago,si,si,si
-539,47.00408,5.14326,Seurre,Bourgogne-Franche-Comté,France,Gratuito,si,no,desconocido
-540,37.3662,-5.9939,Sevilla,Andalucía,España,Gratuito,si,no,si
-541,56.06374,14.5712,Sölvesborg,Blekinge län,Sverige,Gratuito,si,si,si
-542,43.37371,-2.98962,Sopelana,Euskadi,España,Gratuito,si,no,desconocido
-543,42.49142,-1.21393,Sos del Rey Católico,Aragón,España,De pago,si,si,si
-544,42.95579,-0.07255,Soulom,Occitanie,France,Gratuito,si,no,si
-545,44.47074,1.68069,Saint-Cirq-Lapopie,Occitanie,France,De pago,si,si,desconocido
-546,46.2274,-1.54642,Le Gillieux,Nouvelle-Aquitaine,France,De pago,si,no,si
-547,44.86838,1.04382,Saint-Cyprien,Nouvelle-Aquitaine,France,Gratuito,si,no,desconocido
-548,45.01234,1.08971,Saint-Léon-sur-Vézère,Nouvelle-Aquitaine,France,De pago,si,no,desconocido
-549,43.7592,-0.57572,Saint-Sever,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-550,45.14921,-0.82118,Saint-Laurent-Médoc,Nouvelle-Aquitaine,France,Gratuito,si,si,desconocido
-551,44.30765,-1.18127,Sainte-Eulalie-en-Born,Nouvelle-Aquitaine,France,De pago,si,si,desconocido
-552,48.40216,-0.08907,Saint-Pierre-des-Nids,Pays de la Loire,France,Gratuito,si,no,si
-553,50.1825,1.62888,Saint-Valery-sur-Somme,Hauts-de-France,France,De pago,si,no,desconocido
-554,53.11381,8.83575,Bremen,Bremen,Deutschland,De pago,si,si,si
-555,56.28647,13.33925,Örkelljunga kommun,Skåne län,Sverige,De pago,si,desconocido,si
-556,43.76075,6.15109,Sainte-Croix-du-Verdon,Provence-Alpes-Côte d'Azur,France,De pago,si,si,si
-557,50.31584,9.46043,Steinau an der Straße,Hessen,Deutschland,Gratuito,si,si,si
-558,39.95357,-0.33495,Suera / Sueras,Comunitat Valenciana,España,De pago,si,no,si
-559,47.77111,2.38452,Sully-sur-Loire,Centre-Val de Loire,France,Gratuito,si,no,si
-560,46.31086,7.63475,Susten,Valais/Wallis,Schweiz/Suisse/Svizzera/Svizra,Gratuito,si,no,si
-561,42.08313,3.05739,Tor,Catalunya,España,De pago,si,no,si
-562,46.46716,-1.61555,Talmont-Saint-Hilaire,Pays de la Loire,France,De pago,si,no,desconocido
-563,41.86307,0.428,Tamarite de Litera,Aragón,España,Gratuito,si,no,si
-564,43.56608,-6.94606,Tapia de Casariego,Asturias / Asturies,España,De pago,si,no,si
-565,43.35971,-7.10734,Taramundi,Asturias / Asturies,España,Gratuito,si,si,si
-566,44.7171,-1.06977,Lanton,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-567,41.99468,2.41583,Tavertet,Catalunya,España,De pago,si,no,si
-568,42.33262,-8.0131,Cenlle,Galicia,España,Gratuito,si,no,si
-569,41.99417,-1.68778,Cascante,Navarra - Nafarroa,España,Gratuito,si,no,si
-570,47.81144,7.10502,Thann,Grand Est,France,Gratuito,no,si,si
-571,47.80879,7.10433,Thann,Grand Est,France,Gratuito,si,no,si
-572,44.67232,4.21924,Thueyts,Auvergne-Rhône-Alpes,France,Gratuito,si,no,si
-573,41.95863,12.80404,Tivoli,Lazio,Italia,Gratuito,si,no,si
-574,43.13389,-2.08383,Tolosa,Euskadi,España,De pago,si,no,si
-575,57.25084,-3.37592,Tomintoul,Alba / Scotland,United Kingdom,De pago,si,si,si
-576,42.03667,-4.31611,Torquemada,Castilla y León,España,Gratuito,si,no,si
-577,40.22075,-6.57148,Torre de Don Miguel,Extremadura,España,Gratuito,si,no,si
-578,41.18093,-7.0418,Torre de Moncorvo,Bragança,Portugal,Gratuito,si,si,desconocido
-579,40.09388,-1.25381,Torrebaja,Comunitat Valenciana,España,Gratuito,si,si,si
-580,40.80278,0.51417,Tortosa,Catalunya,España,Gratuito,si,no,desconocido
-581,50.60409,3.38181,Tournai,Hainaut,België / Belgique / Belgien,Gratuito,si,no,si
-582,45.07314,4.82221,Tournon-sur-Rhône,Auvergne-Rhône-Alpes,France,Gratuito,si,no,desconocido
-583,48.79041,-3.23074,Tréguier,Bretagne,France,Gratuito,desconocido,no,si
-584,49.74087,6.62492,Trier,Rheinland-Pfalz,Deutschland,De pago,si,si,desconocido
-585,47.22557,0.02328,Turquant,Pays de la Loire,France,Gratuito,si,si,si
-586,38.0065,-3.37933,Úbeda,Andalucía,España,Gratuito,si,no,si
-587,39.98667,-2.85972,Uclés,Castilla-La Mancha,España,Gratuito,si,si,si
-588,48.40741,10.0095,Ulm,Baden-Württemberg,Deutschland,De pago,si,no,desconocido
-589,42.36,-1.12807,Uncastillo,Aragón,España,Gratuito,si,no,si
-590,44.24285,6.62205,Allos,Provence-Alpes-Côte d'Azur,France,Gratuito,si,no,si
-591,42.28755,-5.5131,Valencia de Don Juan,Castilla y León,España,Gratuito,si,no,si
-592,41.65579,-4.73697,Valladolid,Castilla y León,España,De pago,si,no,si
-593,41.38233,1.92724,Vallirana,Catalunya,España,Gratuito,si,no,desconocido
-594,37.1952,-2.98435,Dólar,Andalucía,España,Gratuito,si,si,si
-595,45.33437,8.419,Vercelli,Piemonte,Italia,Gratuito,si,no,si
-596,42.54287,2.39088,Vernet-les-Bains,Occitanie,France,Gratuito,si,no,si
-597,44.48557,1.55517,Saint-Géry-Vers,Occitanie,France,De pago,si,no,si
-598,41.93452,2.24112,Vic,Catalunya,España,De pago,si,si,si
-599,41.93786,-8.74717,Vila Nova de Cerveira,Viana do Castelo,Portugal,Gratuito,si,si,si
-600,41.84548,2.38737,Viladrau,Catalunya,España,Gratuito,si,desconocido,desconocido
-601,41.34035,1.69125,Vilafranca del Penedès,Catalunya,España,Gratuito,si,no,si
-602,37.52579,-1.43387,Lorca,Región de Murcia,España,De pago,si,no,si
-603,43.29575,-7.67702,Vilalba,Galicia,España,Gratuito,si,si,desconocido
-604,43.31052,-6.98628,Villanueva de Oscos,Asturias / Asturies,España,Gratuito,si,no,si
-605,47.5447,0.88706,Villedômer,Centre-Val de Loire,France,Gratuito,si,si,si
-606,46.39577,2.85695,Villefranche-d'Allier,Auvergne-Rhône-Alpes,France,Gratuito,si,no,desconocido
-607,44.63844,0.74033,Villeréal,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-608,41.83382,-7.00304,Vinhais,Bragança,Portugal,Gratuito,si,no,si
-609,43.40271,10.86199,Volterra,Toscana,Italia,De pago,si,no,si
-610,47.40943,0.7975,Vouvray,Centre-Val de Loire,France,Gratuito,si,si,desconocido
-611,52.88354,9.59644,Walsrode,Niedersachsen,Deutschland,Gratuito,si,si,si
-612,51.05696,13.74265,Dresden,Sachsen,Deutschland,De pago,si,si,si
-613,51.34575,9.85379,Witzenhausen,Hessen,Deutschland,De pago,si,no,si
-614,42.06222,-7.71944,Xinzo de Limia,Galicia,España,Gratuito,si,no,si
-615,43.27792,-2.17018,Zarautz,Euskadi,España,Gratuito,si,no,si
-616,42.97597,-2.29271,Zegama,Euskadi,España,Gratuito,si,si,si
-617,43.24086,-2.26089,Zestoa,Euskadi,España,Gratuito,si,no,si
-618,51.19494,3.22329,Brugge,West-Vlaanderen,België / Belgique / Belgien,De pago,desconocido,desconocido,desconocido
-619,37.46667,-4.42401,Cabra,Andalucía,España,Gratuito,si,desconocido,si
-620,49.24885,4.02116,Reims,Grand Est,France,Gratuito,si,si,desconocido
-621,36.7569,-5.50707,El Bosque,Andalucía,España,Gratuito,si,desconocido,si
-622,39.86712,-2.57221,Zafra de Záncara,Castilla-La Mancha,España,De pago,si,no,si
-623,43.34486,-3.74168,Calgar,Cantabria,España,Gratuito,desconocido,desconocido,desconocido
-624,42.68846,-2.95483,Miranda de Ebro,Castilla y León,España,Gratuito,si,no,si
-625,41.15572,-7.78032,Peso da Régua,Vila Real,Portugal,De pago,si,no,si
-626,38.42517,-6.41077,Zafra,Extremadura,España,Gratuito,si,si,si
-627,39.66134,-8.8253,Batalha,Leiria,Portugal,Gratuito,si,no,desconocido
-628,42.87147,-4.49976,Cervera de Pisuerga,Castilla y León,España,Gratuito,si,no,desconocido
-629,41.40168,-4.32033,Cuéllar,Castilla y León,España,Gratuito,si,no,si
-630,42.60598,-7.77989,Chantada,Galicia,España,Gratuito,si,no,desconocido
-631,50.67968,1.56637,Équihen-Plage,Hauts-de-France,France,De pago,si,no,si
-632,42.00401,-4.53493,Palencia,Castilla y León,España,Gratuito,si,no,desconocido
-633,43.88982,-0.47566,Mont-de-Marsan,Nouvelle-Aquitaine,France,De pago,si,desconocido,si
-634,39.47993,-6.37121,Cáceres,Extremadura,España,Gratuito,si,si,desconocido
-635,37.44227,-4.21184,Priego de Córdoba,Andalucía,España,Gratuito,si,si,si
-636,42.51945,-2.35994,Viana,Navarra - Nafarroa,España,De pago,si,no,si
-637,47.62942,6.12669,Vaivre-et-Montoille,Bourgogne-Franche-Comté,France,Gratuito,si,si,si
-638,42.21444,-8.03306,Cartelle,Galicia,España,Gratuito,si,no,desconocido
-639,41.63603,2.40798,Llinars del Vallès,Catalunya,España,Gratuito,si,si,si
-640,42.86667,-2.68501,Vitoria-Gasteiz,Euskadi,España,Gratuito,si,no,desconocido
-641,41.28071,1.58177,Banyeres del Penedès,Catalunya,España,Gratuito,si,si,si
-642,41.8758,12.55554,Roma,Lazio,Italia,De pago,si,si,si
-643,42.95853,-0.20743,Marsous,Occitanie,France,Gratuito,si,no,si
-644,50.0277,19.20162,Oświęcim,województwo małopolskie,Polska,De pago,no,si,desconocido
-645,41.85607,3.13588,Palamós,Catalunya,España,De pago,si,si,desconocido
-646,42.2857,-8.14286,Ribadavia,Galicia,España,Gratuito,si,no,si
-647,42.10985,-4.64336,Becerril de Campos,Castilla y León,España,Gratuito,si,no,si
-648,44.63855,-0.31691,Cadillac-sur-Garonne,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-649,45.61159,7.73268,Hône,Valle d'Aosta / Vallée d'Aoste,Italia,De pago,si,no,si
-650,43.72144,10.41937,Pisa,Toscana,Italia,De pago,si,no,si
-651,44.54056,10.82639,Fiorano Modenese,Emilia-Romagna,Italia,Gratuito,si,si,si
-652,42.43789,-8.69432,Poio,Galicia,España,Gratuito,si,no,si
-653,41.90752,2.74256,Vilobí d'Onyar,Catalunya,España,Gratuito,si,si,si
-654,46.02611,3.2031,Aigueperse,Auvergne-Rhône-Alpes,France,Gratuito,si,no,si
-655,41.05194,-0.13911,Alcañiz,Aragón,España,Gratuito,si,no,si
-656,40.72902,-6.90168,Almeida,Guarda,Portugal,Gratuito,si,no,si
-657,42.33949,-8.61309,Soutomaior,Galicia,España,Gratuito,si,no,si
-658,40.92608,-8.25131,Arouca,Aveiro,Portugal,Gratuito,si,si,si
-659,41.89256,1.04297,Artesa de Segre,Catalunya,España,Gratuito,si,no,si
-660,36.23606,-6.06861,Vejer de la Frontera,Andalucía,España,De pago,si,si,si
-661,43.55107,-5.9139,Avilés,Asturias / Asturies,España,Gratuito,si,no,si
-662,37.21012,-7.40662,Ayamonte,Andalucía,España,De pago,si,si,desconocido
-663,45.70125,7.23933,Aymavilles,Valle d'Aosta / Vallée d'Aoste,Italia,De pago,si,no,si
-664,39.05604,-1.0526,Ayora,Comunitat Valenciana,España,Gratuito,si,no,si
-665,42.48707,1.94485,Dorres,Occitanie,France,Gratuito,si,no,si
-666,47.54913,7.94716,Bad Säckingen,Baden-Württemberg,Deutschland,De pago,si,si,si
-667,48.50058,9.37535,Bad Urach,Baden-Württemberg,Deutschland,De pago,si,no,desconocido
-668,48.51022,8.37201,Baiersbronn,Baden-Württemberg,Deutschland,De pago,si,no,desconocido
-669,47.8132,6.84149,Lepuix,Bourgogne-Franche-Comté,France,De pago,si,no,si
-670,36.18389,-5.93573,Barbate,Andalucía,España,De pago,si,si,desconocido
-671,46.73153,-1.91144,Saint-Hilaire-de-Riez,Pays de la Loire,France,Gratuito,si,desconocido,si
-672,40.40415,0.41969,Benicarló,Comunitat Valenciana,España,Gratuito,si,no,si
-673,40.05584,0.06073,Benicàssim / Benicasim,Comunitat Valenciana,España,Gratuito,si,no,si
-674,42.19906,2.70398,Besalú,Catalunya,España,Gratuito,si,no,si
-675,47.23705,6.01637,Besançon,Bourgogne-Franche-Comté,France,De pago,si,no,si
-676,41.50344,-5.75641,Zamora,Castilla y León,España,Gratuito,si,si,si
-677,46.20901,5.24037,Bourg-en-Bresse,Auvergne-Rhône-Alpes,France,Gratuito,si,no,si
-678,44.25642,0.30669,Buzet-sur-Baïse,Nouvelle-Aquitaine,France,De pago,si,desconocido,si
-679,41.8394,2.8117,Caldes de Malavella,Catalunya,España,Gratuito,si,no,si
-680,36.74863,-4.06588,Vélez-Málaga,Andalucía,España,De pago,si,si,desconocido
-681,45.87961,10.85896,Riva del Garda,Trentino-Alto Adige/Südtirol,Italia,De pago,si,desconocido,si
-682,46.02136,14.52279,Ljubljana,Slovenija,Slovenija,De pago,si,si,desconocido
-683,37.27904,-8.24188,São Bartolomeu de Messines,Faro,Portugal,De pago,si,desconocido,si
-684,46.42258,15.85308,Ptuj,Slovenija,Slovenija,De pago,si,si,si
-685,42.04229,2.40465,l'Esquirol,Catalunya,España,Gratuito,si,no,si
-686,38.59583,-0.66696,Castalla,Comunitat Valenciana,España,De pago,si,si,si
-687,47.61606,1.51092,Chambord,Centre-Val de Loire,France,De pago,si,si,si
-688,48.07147,1.32427,Châteaudun,Centre-Val de Loire,France,Gratuito,si,no,si
-689,45.13589,-0.66431,Blaye,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-690,49.64244,-1.61778,Cherbourg-en-Cotentin,Normandie,France,Gratuito,si,no,si
-691,36.74466,-6.42693,Chipiona,Andalucía,España,De pago,si,si,desconocido
-692,43.85402,4.60863,Comps,Occitanie,France,De pago,si,si,si
-693,53.04737,8.62435,Delmenhorst,Niedersachsen,Deutschland,Gratuito,si,no,si
-694,46.51844,3.685,Dompierre-sur-Besbre,Auvergne-Rhône-Alpes,France,Gratuito,si,si,si
-695,47.36676,0.7001,Tours,Centre-Val de Loire,France,Gratuito,si,no,si
-696,41.87573,-4.5421,Dueñas,Castilla y León,España,Gratuito,si,no,si
-697,44.67771,0.17821,Duras,Nouvelle-Aquitaine,France,De pago,si,no,si
-698,46.32109,11.27422,Neumarkt - Egna,Trentino-Alto Adige/Südtirol,Italia,De pago,si,no,si
-699,43.12844,-2.54642,Elorrio,Euskadi,España,Gratuito,si,si,si
-700,46.27556,13.95919,Bohinjska Bistrica,Slovenija,Slovenija,De pago,si,si,si
-701,46.33466,2.55863,Prémilhat,Auvergne-Rhône-Alpes,France,Gratuito,si,si,si
-702,38.20814,-0.57419,Santa Pola,Comunitat Valenciana,España,De pago,si,si,si
-703,42.91107,-9.26357,Fisterra,Galicia,España,De pago,si,no,si
-704,58.29303,6.66331,Flekkefjord,Agder,Norge,De pago,si,no,si
-705,42.96102,1.6111,Foix,Occitanie,France,Gratuito,si,no,si
-706,43.92037,5.12466,Fontaine-de-Vaucluse,Provence-Alpes-Côte d'Azur,France,De pago,si,no,si
-707,57.44935,14.10038,Skillingaryd,Jönköpings län,Sverige,Gratuito,si,si,si
-708,48.40219,8.00692,Gengenbach,Baden-Württemberg,Deutschland,De pago,si,no,desconocido
-709,47.39252,0.19693,Gizeux,Centre-Val de Loire,France,Gratuito,si,si,si
-710,48.83506,-1.6098,Granville,Normandie,France,De pago,si,no,si
-711,48.98728,-0.95044,Torigny-les-Villes,Normandie,France,Gratuito,si,no,si
-712,53.5435,10.02664,Hamburg,Deutschland,Deutschland,De pago,si,si,si
-713,49.41905,0.24127,Honfleur,Normandie,France,De pago,si,no,si
-714,43.0468,-2.21222,Beasain,Euskadi,España,Gratuito,si,no,si
-715,37.07083,15.26211,Siracusa,Sicilia,Italia,De pago,si,si,si
-716,49.32162,-1.10455,Isigny-sur-Mer,Normandie,France,Gratuito,si,no,si
-717,40.33355,-7.86769,Nogueira do Cravo,Coimbra,Portugal,Gratuito,si,no,si
-718,47.34618,11.70344,Schwaz,Tirol,Österreich,De pago,si,no,si
-719,46.48741,13.77486,Podkoren,Slovenija,Slovenija,De pago,si,si,si
-720,37.54655,-4.35238,Doña Mencía,Andalucía,España,Gratuito,si,no,si
-721,41.66999,2.28767,la Garriga,Catalunya,España,Gratuito,si,no,si
-722,42.93603,0.30115,Campan,Occitanie,France,Gratuito,si,si,si
-723,49.40871,0.26809,La Rivière-Saint-Sauveur,Normandie,France,Gratuito,si,no,si
-724,48.55066,4.76828,Giffaumont-Champaubert,Grand Est,France,De pago,si,no,si
-725,43.88531,-1.31959,Léon,Nouvelle-Aquitaine,France,De pago,si,si,si
-726,46.42472,8.40803,Formazza,Piemonte,Italia,De pago,si,no,si
-727,48.55089,8.49376,Grömbach,Baden-Württemberg,Deutschland,Gratuito,si,no,desconocido
-728,43.38869,-4.21005,Alfoz de Lloredo,Cantabria,España,De pago,si,si,si
-729,43.47226,-3.80283,Santander,Cantabria,España,Gratuito,si,no,si
-730,38.27477,-5.81841,Berlanga,Extremadura,España,Gratuito,si,si,si
-731,48.55991,-4.33531,Le Folgoët,Bretagne,France,Gratuito,si,si,si
-732,49.21853,-1.53643,Lessay,Normandie,France,Gratuito,si,no,si
-733,47.60084,9.87574,Lindenberg im Allgäu,Bayern,Deutschland,De pago,si,no,si
-734,48.74658,6.05772,Liverdun,Grand Est,France,Gratuito,si,no,si
-735,43.42392,-4.76797,Llanes,Asturias / Asturies,España,De pago,si,no,si
-736,46.04692,-0.50656,Loulay,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-737,46.55944,15.65611,Maribor,Slovenija,Slovenija,De pago,si,si,si
-738,36.71393,-4.3171,Málaga,Andalucía,España,De pago,si,si,si
-739,43.09588,11.78748,Montepulciano,Toscana,Italia,De pago,si,no,si
-740,44.03867,-0.90964,Morcenx-la-Nouvelle,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-741,47.92328,7.16034,Murbach,Grand Est,France,Gratuito,si,no,si
-742,47.55204,8.02434,Murg,Baden-Württemberg,Deutschland,De pago,si,no,si
-743,42.81948,-2.79847,Nanclares de la Oca/Langraiz Oka,Euskadi,España,Gratuito,si,no,si
-744,45.92572,1.17228,Nieul,Nouvelle-Aquitaine,France,Gratuito,si,si,si
-745,42.45523,-8.92649,O Grove,Galicia,España,De pago,si,no,si
-746,42.55583,1.53273,Ordino,Andorra,Andorra,Gratuito,si,no,si
-747,37.23111,-5.097,Osuna,Andalucía,España,Gratuito,si,no,si
-748,44.6405,8.64986,Ovada,Piemonte,Italia,Gratuito,si,no,si
-749,42.50917,-2.442,Oyón/Oion,Euskadi,España,Gratuito,si,no,si
-750,42.73239,-8.66132,Padrón,Galicia,España,Gratuito,si,no,si
-751,42.82093,-1.65645,Pamplona/Iruña,Navarra - Nafarroa,España,De pago,si,no,si
-752,41.99033,2.80144,Girona,Catalunya,España,Gratuito,si,no,si
-753,45.53797,13.73781,Koper / Capodistria,Slovenija,Slovenija,De pago,si,si,si
-754,37.09265,-8.3116,Guia,Faro,Portugal,De pago,si,no,si
-755,42.30594,3.00851,Peralada,Catalunya,España,Gratuito,si,no,si
-756,41.99386,0.38891,Peralta de Calasanz,Aragón,España,Gratuito,si,no,si
-757,48.45525,9.228,Pfullingen,Baden-Württemberg,Deutschland,Gratuito,si,no,si
-758,46.16554,12.0588,Sospirolo,Veneto,Italia,De pago,si,si,si
-759,28.378,-16.49928,La Orotava,España,España,Gratuito,si,no,si
-760,45.06318,5.33642,Pont-en-Royans,Auvergne-Rhône-Alpes,France,De pago,si,no,si
-761,42.43348,-8.63486,Pontevedra,Galicia,España,Gratuito,si,no,si
-762,41.09414,1.1538,Vila-seca,Catalunya,España,De pago,si,si,si
-763,42.80666,-7.61765,Portomarín,Galicia,España,Gratuito,si,no,si
-764,41.68343,-8.83278,Darque,Viana do Castelo,Portugal,Gratuito,si,no,si
-765,42.00446,2.03414,Prats de Lluçanès,Catalunya,España,Gratuito,si,si,si
-766,37.22501,-5.30481,La Puebla de Cazalla,Andalucía,España,Gratuito,si,si,si
-767,46.89428,-0.925,Les Épesses,Pays de la Loire,France,De pago,si,si,si
-768,47.86624,-3.54346,Quimperlé,Bretagne,France,Gratuito,si,no,si
-769,43.93793,4.55855,Remoulins,Occitanie,France,Gratuito,si,no,si
-770,43.46024,-5.05409,Ribeseya,Asturias / Asturies,España,Gratuito,si,no,si
-771,42.26843,3.15566,Roses,Catalunya,España,De pago,si,si,si
-772,47.32653,1.12528,Saint-Georges-sur-Cher,Centre-Val de Loire,France,Gratuito,si,no,si
-773,47.84533,-2.72433,Saint-Jean-Brévelay,Bretagne,France,Gratuito,si,si,si
-774,45.11515,0.50034,Saint-Léon-sur-l'Isle,Nouvelle-Aquitaine,France,Gratuito,si,no,si
-775,48.52209,-3.94572,Saint-Thégonnec Loc-Eguiner,Bretagne,France,Gratuito,si,si,si
-776,40.48659,-8.47524,Sangalhos,Aveiro,Portugal,Gratuito,si,no,si
-777,41.53689,1.38206,Santa Coloma de Queralt,Catalunya,España,Gratuito,si,no,si
-778,42.6727,-2.34416,Campezo/Kanpezu,Euskadi,España,De pago,si,no,si
-779,42.13004,-3.97253,Santa María del Campo,Castilla y León,España,Gratuito,si,no,si
-780,43.00362,-3.73907,Merindad de Valdeporres,Castilla y León,España,De pago,si,si,si
-781,45.78978,8.37226,Madonna del Sasso,Piemonte,Italia,Gratuito,si,no,si
-782,44.5348,-0.34294,Sauternes,Nouvelle-Aquitaine,France,Gratuito,si,si,si
-783,39.04136,-0.30753,Simat de la Valldigna,Comunitat Valenciana,España,Gratuito,si,no,si
-784,41.872,-8.26331,Soajo,Viana do Castelo,Portugal,Gratuito,si,si,si
-785,42.51822,12.51853,Narni,Umbria,Italia,Gratuito,si,no,si
-786,49.46392,-1.82792,Surtainville,Normandie,France,Gratuito,si,no,si
-787,55.71792,12.58956,København,Region Hovedstaden,Danmark,De pago,si,si,si
-788,46.29885,12.0119,Pèden,Veneto,Italia,Gratuito,si,si,si
-789,70.04081,22.95356,Talvik,Troms og Finnmark,Norge,Gratuito,si,si,si
-790,37.34902,-2.44145,Tíjola,Andalucía,España,Gratuito,si,no,si
-791,38.91907,-6.33623,Mérida,Extremadura,España,De pago,si,si,si
-792,41.44087,-8.28467,Guimarães,Braga,Portugal,Gratuito,si,no,si
-793,47.8325,7.9557,Todtnau,Baden-Württemberg,Deutschland,De pago,si,no,si
-794,41.70561,2.718,Tordera,Catalunya,España,Gratuito,si,si,si
-795,47.53757,1.50013,Tour-en-Sologne,Centre-Val de Loire,France,Gratuito,si,si,si
-796,36.6707,-5.4499,Ubrique,Andalucía,España,Gratuito,si,no,si
-797,45.74618,6.41794,Ugine,Auvergne-Rhône-Alpes,France,Gratuito,si,desconocido,si
-798,42.91417,-1.97361,Uharte Arakil,Navarra - Nafarroa,España,De pago,si,no,si
-799,40.256,-7.6235,Unhais da Serra,Castelo Branco,Portugal,Gratuito,si,si,si
-800,48.07728,8.36652,Unterkirnach,Baden-Württemberg,Deutschland,De pago,si,no,desconocido
-801,39.4092,-7.2463,Valencia de Alcántara,Extremadura,España,Gratuito,si,no,si
-802,37.65238,-2.07382,Vélez-Rubio,Andalucía,España,Gratuito,si,no,si
-803,42.59012,-8.76457,Vilagarcía de Arousa,Galicia,España,Gratuito,si,no,si
-804,52.48906,5.06037,Volendam,Noord-Holland,Nederland,De pago,si,no,si
-805,46.57444,-0.77494,Vouvant,Pays de la Loire,France,De pago,si,no,si
-806,46.24086,15.15397,Žalec,Slovenija,Slovenija,Gratuito,si,no,si
-807,48.46279,10.26936,Günzburg,Bayern,Deutschland,De pago,si,no,si
-808,36.71034,-6.12139,Jerez de la Frontera,Andalucía,España,De pago,si,no,si
-809,43.84366,6.21885,Moustiers-Sainte-Marie,Provence-Alpes-Côte d'Azur,France,De pago,si,desconocido,si
-810,39.39422,-7.37375,Marvão,Portalegre,Portugal,Gratuito,si,no,si
-811,46.58842,12.25619,Auronzo di Cadore,Veneto,Italia,De pago,si,no,si
-812,41.77989,3.02288,Sant Feliu de Guíxols,Catalunya,España,De pago,si,no,si
-813,45.78266,-1.15228,Ronce-les-Bains,Nouvelle-Aquitaine,France,De pago,si,no,si
-814,37.47011,-7.46406,Sanlúcar de Guadiana,Andalucía,España,Gratuito,si,no,si
-815,36.71959,-3.36431,Castell de Ferro,Andalucía,España,De pago,si,si,si
-816,45.64468,7.71746,Arnad,Valle d'Aosta / Vallée d'Aoste,Italia,Gratuito,si,no,si
-817,47.76311,11.55014,Bad Tölz,Bayern,Deutschland,De pago,si,si,si
-818,42.50068,0.79456,la Vall de Boí,Catalunya,España,Gratuito,si,no,desconocido
-819,43.15595,-5.97295,Quirós,Asturias / Asturies,España,Gratuito,si,no,si
-820,48.42425,-1.57402,Bazouges-la-Pérouse,Bretagne,France,Gratuito,si,no,si
-821,42.85971,-8.64876,Ames,Galicia,España,Gratuito,si,no,desconocido
-822,46.10941,1.36995,Bessines-sur-Gartempe,Nouvelle-Aquitaine,France,Gratuito,si,si,si
-823,49.79052,5.05737,Bouillon,Luxembourg,België / Belgique / Belgien,Gratuito,si,no,si
-824,43.35802,-3.81972,Penagos,Cantabria,España,Gratuito,desconocido,desconocido,desconocido
-825,37.38863,-1.61577,Águilas,Región de Murcia,España,De pago,si,si,desconocido
-826,39.21027,9.12765,Cagliari - Casteddu,Sardigna/Sardegna,Italia,De pago,si,si,si
-827,38.002,-1.01922,Murcia,Región de Murcia,España,De pago,si,si,desconocido
-828,38.12092,-0.66,San Fulgencio,Comunitat Valenciana,España,De pago,si,si,si
-829,38.00765,-1.04332,Murcia,Región de Murcia,España,De pago,si,si,desconocido
-830,37.79279,-1.5104,Totana,Región de Murcia,España,De pago,si,no,desconocido
-831,-36.82772,139.8505,Kingston SE,South Australia,Australia,Gratuito,si,si,si
-832,43.01334,-6.60823,Cangas del Narcea,Asturias / Asturies,España,Gratuito,si,si,si
-833,43.32683,2.52549,Caunes-Minervois,Occitanie,France,Gratuito,no,no,desconocido
-834,49.12089,5.03639,Clermont-en-Argonne,Grand Est,France,De pago,si,si,si
-835,42.45352,1.48644,Aubinyà,Andorra,Andorra,Gratuito,no,si,desconocido
-836,45.12593,-0.66527,Blaye,Nouvelle-Aquitaine,France,De pago,si,no,si
-837,27.97589,-15.58812,Tejeda,España,España,Gratuito,si,si,desconocido
-838,45.7815,14.20557,Postojna,Slovenija,Slovenija,De pago,si,si,desconocido
-839,47.65805,9.16928,Konstanz,Baden-Württemberg,Deutschland,De pago,si,si,si
-840,48.54753,-1.75498,Dol-de-Bretagne,Bretagne,France,Gratuito,si,si,si
-841,45.40365,2.04749,Égletons,Nouvelle-Aquitaine,France,Gratuito,si,no,desconocido
-842,39.48151,-7.54972,Santiago Maior,Portalegre,Portugal,Gratuito,si,si,desconocido
-843,42.53544,1.58873,Encamp,Andorra,Andorra,De pago,si,no,desconocido
-844,48.62166,-2.4727,Erquy,Bretagne,France,Gratuito,si,no,desconocido
-845,42.71085,-1.7773,Legarda,Navarra - Nafarroa,España,Gratuito,si,si,desconocido
-846,42.79635,0.43926,Loudervielle,Occitanie,France,Gratuito,no,si,desconocido
-847,43.03812,-4.37073,Hermandad de Campoo de Suso,Cantabria,España,Gratuito,si,si,si
-848,49.16217,10.32481,Feuchtwangen,Bayern,Deutschland,Gratuito,no,no,desconocido
-849,41.41314,2.22206,Sant Adrià de Besòs,Catalunya,España,De pago,si,si,desconocido
-850,41.08846,-6.81725,Freixo de Espada à Cinta,Bragança,Portugal,Gratuito,si,no,si
-851,51.70358,4.86345,Geertruidenberg,Noord-Brabant,Nederland,De pago,si,si,si
-852,42.52303,2.22168,Thuès-Entre-Valls,Occitanie,France,De pago,si,desconocido,si
-853,42.95668,-0.32885,Gourette,Nouvelle-Aquitaine,France,Gratuito,no,no,desconocido
-854,66.72461,13.69942,Meløy,Nordland,Norge,Gratuito,si,si,desconocido
-855,43.24798,-5.90537,Riosa,Asturias / Asturies,España,De pago,si,no,si
-856,45.65341,5.86018,Le Bourget-du-Lac,Auvergne-Rhône-Alpes,France,De pago,si,si,desconocido
-857,44.10563,0.88521,Valence,Occitanie,France,De pago,si,si,si
-858,43.52636,-1.51697,Anglet,Nouvelle-Aquitaine,France,De pago,si,si,desconocido
-859,47.09514,-2.04974,La Bernerie-en-Retz,Pays de la Loire,France,Gratuito,si,si,desconocido
-860,46.03356,1.29907,Razès,Nouvelle-Aquitaine,France,Gratuito,si,si,si
-861,45.00618,-1.16871,Lacanau,Nouvelle-Aquitaine,France,De pago,si,no,desconocido
-862,43.2399,-7.55564,Cospeito,Galicia,España,Gratuito,si,no,desconocido
-863,41.73708,-1.06557,Zaragoza,Aragón,España,Gratuito,si,si,desconocido
-864,47.31979,-1.34787,Le Cellier,Pays de la Loire,France,Gratuito,si,si,desconocido
-865,42.78471,1.68838,Les Cabannes,Occitanie,France,De pago,si,si,desconocido
-866,42.80155,0.4109,Loudenvielle,Occitanie,France,Gratuito,si,no,si
-867,44.78422,1.89973,Leyme,Occitanie,France,Gratuito,si,no,desconocido
-868,42.79672,0.40844,Loudenvielle,Occitanie,France,De pago,si,si,desconocido
-869,42.81105,9.33364,Canari,Corse,France,De pago,si,si,desconocido
-870,42.84532,-8.58099,O Milladoiro,Galicia,España,Gratuito,si,no,desconocido
-871,44.09492,3.0824,Millau,Occitanie,France,De pago,si,si,desconocido
-872,42.52787,-7.51178,Monforte de Lemos,Galicia,España,Gratuito,desconocido,desconocido,desconocido
-873,44.70806,2.49686,Montsalvy,Auvergne-Rhône-Alpes,France,Gratuito,si,si,desconocido
-874,48.6123,-1.50788,Beauvoir,Normandie,France,De pago,no,no,desconocido
-875,50.75566,11.75636,Neustadt an der Orla,Thüringen,Deutschland,Gratuito,si,no,si
-876,58.50749,15.97696,Norsholm,Östergötlands län,Sverige,De pago,si,si,desconocido
-877,48.02292,-2.17146,Paimpont,Bretagne,France,De pago,si,desconocido,si
-878,40.92898,-4.05689,Palazuelos de Eresma,Castilla y León,España,Gratuito,si,no,desconocido
-879,42.54538,1.73344,Encamp,Andorra,Andorra,De pago,si,no,desconocido
-880,40.54961,-8.77067,Vagos,Aveiro,Portugal,Gratuito,si,si,si
-881,63.23693,24.82099,Kivijärvi,Keski-Suomi,Suomi / Finland,Gratuito,si,si,desconocido
-882,44.6403,-1.01969,Le Teich,Nouvelle-Aquitaine,France,Gratuito,si,si,si
-883,41.29165,-4.68193,Olmedo,Castilla y León,España,Gratuito,si,no,si
-884,38.56002,-0.08362,Benidorm,Comunitat Valenciana,España,De pago,si,si,desconocido
-885,42.90977,-0.61941,Accous,Nouvelle-Aquitaine,France,De pago,si,no,si
-886,43.57624,-1.48635,Ondres,Nouvelle-Aquitaine,France,De pago,si,si,desconocido
-887,47.8539,-3.74346,Pont-Aven,Bretagne,France,Gratuito,si,no,desconocido
-888,42.38884,-8.49938,Ponte Caldelas,Galicia,España,Gratuito,si,desconocido,desconocido
-889,47.48831,-3.13681,Port Maria,Bretagne,France,De pago,si,no,desconocido
-890,43.01348,3.04088,Port-la-Nouvelle,Occitanie,France,De pago,si,no,desconocido
-891,38.96591,-5.96265,Medellín,Extremadura,España,Gratuito,si,no,si
-892,43.93504,12.44485,Città di San Marino,San Marino,San Marino,Gratuito,no,no,desconocido
-893,45.58037,0.04478,Roullet-Saint-Estèphe,Nouvelle-Aquitaine,France,Gratuito,si,no,desconocido
-894,48.41111,-1.36278,Maen-Roch,Bretagne,France,Gratuito,si,si,desconocido
-895,45.03578,3.09823,Saint-Flour,Auvergne-Rhône-Alpes,France,Gratuito,si,no,desconocido
-896,46.19932,-1.36506,Saint-Martin-de-Ré,Nouvelle-Aquitaine,France,De pago,si,no,si
-897,48.68265,-3.97073,Saint-Pol-de-Léon,Bretagne,France,De pago,si,si,si
-898,44.39669,0.80508,Saint-Sylvestre-sur-Lot,Nouvelle-Aquitaine,France,Gratuito,si,si,si
-899,47.51153,-3.13893,Saint-Pierre-Quiberon,Bretagne,France,Gratuito,si,no,desconocido
-900,43.80279,7.74772,Sanremo,Liguria,Italia,De pago,si,no,desconocido
-901,42.46602,1.49422,Sant Julià de Lòria,Andorra,Andorra,Gratuito,si,no,si
-902,46.02827,-1.38419,Saint-Denis-d'Oléron,Nouvelle-Aquitaine,France,Gratuito,si,si,desconocido
-903,46.35049,-1.43666,La Tranche-sur-Mer,Pays de la Loire,France,De pago,si,no,si
-904,40.0834,9.67794,Baunei,Sardigna/Sardegna,Italia,De pago,si,si,desconocido
-905,45.86873,3.48255,Thiers,Auvergne-Rhône-Alpes,France,Gratuito,si,si,desconocido
-906,48.67925,5.88781,Toul,Grand Est,France,Gratuito,si,no,si
-907,43.78299,6.44211,Trigance,Provence-Alpes-Côte d'Azur,France,Gratuito,si,si,desconocido
-908,42.04335,-8.6465,Tui,Galicia,España,Gratuito,si,no,desconocido
-909,40.87389,0.15556,Valderrobres,Aragón,España,Gratuito,si,no,desconocido
-910,37.58107,-6.75165,Valverde del Camino,Andalucía,España,Gratuito,si,no,desconocido
-911,44.89777,5.36963,Vassieux-en-Vercors,Auvergne-Rhône-Alpes,France,Gratuito,si,no,desconocido
-912,37.55425,-2.60865,Cúllar,Andalucía,España,Gratuito,si,si,si
+,latitude,longitude,town,region,country,price,water,wc,grey_water
+0,39.06956,-0.4098,Carcaixent,Comunitat Valenciana,España,Free,yes,yes,yes
+1,42.64159,-8.89696,Boiro,Galicia,España,Free,yes,yes,unknown
+2,42.90715,0.35921,Arreau,Occitanie,France,Paying,yes,no,yes
+3,38.39479,-0.41007,el Campello,Comunitat Valenciana,España,Paying,yes,yes,unknown
+4,43.37179,-8.44443,A Coruña,Galicia,España,Free,yes,yes,unknown
+5,40.72556,0.72158,Deltebre,Catalunya,España,Free,yes,no,unknown
+6,41.81417,2.52043,Arbúcies,Catalunya,España,Free,yes,no,unknown
+7,39.75402,9.6713,Cardedu,Sardigna/Sardegna,Italia,Paying,yes,yes,unknown
+8,41.78121,1.27773,Guissona,Catalunya,España,Free,yes,yes,unknown
+9,51.28586,4.50299,Brasschaat,Antwerpen,België / Belgique / Belgien,Free,yes,no,unknown
+10,41.67803,1.28364,Cervera,Catalunya,España,Free,yes,no,unknown
+11,47.065,0.31783,Champigny-sur-Veude,Centre-Val de Loire,France,Free,yes,yes,unknown
+12,45.05802,1.65895,Collonges-la-Rouge,Nouvelle-Aquitaine,France,Paying,yes,yes,unknown
+13,44.77714,1.00682,Pays de Belvès,Nouvelle-Aquitaine,France,Free,yes,no,unknown
+14,45.05397,1.58078,Turenne,Nouvelle-Aquitaine,France,Free,yes,no,unknown
+15,51.04677,13.74581,Dresden,Sachsen,Deutschland,Paying,yes,no,unknown
+16,68.30725,13.65136,Vestvågøy,Nordland,Norge,Paying,yes,no,unknown
+17,41.17643,1.32661,el Catllar,Catalunya,España,Free,yes,yes,unknown
+18,41.12671,0.73375,el Masroig,Catalunya,España,Free,yes,yes,unknown
+19,47.72945,10.31922,Kempten (Allgäu),Bayern,Deutschland,Paying,yes,no,unknown
+20,52.45926,13.58558,Berlin,Deutschland,Deutschland,Paying,yes,yes,unknown
+21,41.41435,1.1727,Solivella,Catalunya,España,Paying,yes,yes,unknown
+22,42.2381,0.96624,la Pobla de Segur,Catalunya,España,Free,yes,no,unknown
+23,59.04898,10.03346,Larvik,Vestfold og Telemark,Norge,Paying,yes,yes,unknown
+24,43.03665,-2.33781,Legazpi,Euskadi,España,Free,yes,yes,unknown
+25,49.4851,-1.37337,Saint-Floxel,Normandie,France,Free,yes,no,unknown
+26,41.92158,2.32174,Sant Julià de Vilatorta,Catalunya,España,Free,yes,yes,unknown
+27,41.62198,2.68943,Pineda de Mar,Catalunya,España,Paying,unknown,no,unknown
+28,41.88505,12.38906,Roma,Lazio,Italia,Paying,yes,yes,unknown
+29,43.44705,-3.72811,Ribamontán al Mar,Cantabria,España,Paying,yes,yes,unknown
+30,44.15179,1.75121,Saint-Antonin-Noble-Val,Occitanie,France,Free,yes,no,unknown
+31,48.64347,-1.99403,Saint-Malo,Bretagne,France,Paying,yes,no,unknown
+32,42.82247,0.32309,Saint-Lary-Soulan,Occitanie,France,Paying,yes,yes,unknown
+33,42.23567,2.28421,Sant Joan de les Abadesses,Catalunya,España,Free,yes,yes,yes
+34,43.68666,5.7117,Saint-Paul-lès-Durance,Provence-Alpes-Côte d'Azur,France,Free,yes,no,unknown
+35,41.80704,2.74448,Sils,Catalunya,España,Free,yes,no,unknown
+36,45.6263,7.06263,Valgrisenche,Valle d'Aosta / Vallée d'Aoste,Italia,Free,yes,no,unknown
+37,45.59389,7.20708,Valsavarenche,Valle d'Aosta / Vallée d'Aoste,Italia,Paying,yes,no,unknown
+38,46.77409,5.52248,Arlay,Bourgogne-Franche-Comté,France,Free,yes,yes,unknown
+39,37.59001,-4.08879,Alcaudete,Andalucía,España,Free,yes,no,unknown
+40,54.31272,13.09759,Stralsund,Mecklenburg-Vorpommern,Deutschland,Paying,no,yes,unknown
+41,43.96318,6.66433,Annot,Provence-Alpes-Côte d'Azur,France,Free,yes,no,unknown
+42,45.58797,3.11329,Champeix,Auvergne-Rhône-Alpes,France,Free,yes,no,yes
+43,41.39847,1.10464,l'Espluga de Francolí,Catalunya,España,Free,yes,unknown,yes
+44,44.72299,3.85396,Langogne,Occitanie,France,Free,yes,yes,yes
+45,41.16679,1.45677,Creixell,Catalunya,España,Paying,yes,no,yes
+46,42.76222,-8.25611,Vila de Cruces,Galicia,España,Free,yes,no,yes
+47,42.44155,-7.79195,A Peroxa,Galicia,España,Free,yes,yes,yes
+48,42.38907,-7.11513,A Rúa,Galicia,España,Free,yes,no,unknown
+49,50.76145,6.10291,Aachen,Nordrhein-Westfalen,Deutschland,Paying,yes,yes,yes
+50,37.15425,-2.77737,Abla,Andalucía,España,Free,yes,yes,yes
+51,42.75889,-8.02111,Agolada,Galicia,España,Free,yes,no,yes
+52,41.84743,-1.93007,Ágreda,Castilla y León,España,Free,yes,yes,yes
+53,42.7863,-4.25724,Aguilar de Campoo,Castilla y León,España,Free,yes,no,unknown
+54,43.56522,4.19645,Aigues-Mortes,Occitanie,France,Paying,yes,no,unknown
+55,38.03745,-5.71036,Alanís,Andalucía,España,Free,yes,no,yes
+56,41.12133,-0.50825,Albalate del Arzobispo,Aragón,España,Free,yes,no,yes
+57,39.38959,-3.21934,Alcázar de San Juan,Castilla-La Mancha,España,Free,yes,no,yes
+58,41.26326,1.1729,Alcover,Catalunya,España,Paying,yes,no,yes
+59,62.47643,6.15842,Ålesund,Møre og Romsdal,Norge,Paying,yes,no,yes
+60,41.43594,-1.23827,Alfamén,Aragón,España,Free,yes,no,yes
+61,48.22077,11.62534,München,Bayern,Deutschland,Paying,yes,yes,unknown
+62,36.69709,-2.79397,El Ejido,Andalucía,España,Paying,yes,yes,yes
+63,50.74863,9.27856,Alsfeld,Hessen,Deutschland,Paying,yes,no,yes
+64,69.98899,23.48611,Alta,Troms og Finnmark,Norge,Free,yes,yes,yes
+65,45.78528,8.44087,Vacciago,Piemonte,Italia,Free,yes,no,yes
+66,49.24773,6.13846,Hagondange,Grand Est,France,Free,yes,yes,yes
+67,44.74496,-1.11095,Andernos-les-Bains,Nouvelle-Aquitaine,France,Paying,yes,yes,yes
+68,40.98399,-0.44725,Andorra,Aragón,España,Free,yes,no,yes
+69,37.0213,-4.57154,Antequera,Andalucía,España,Free,yes,no,yes
+70,43.5595,12.42003,Apecchio,Marche,Italia,Free,yes,no,unknown
+71,41.67026,-3.69273,Aranda de Duero,Castilla y León,España,Free,yes,no,unknown
+72,43.47195,11.88764,Arezzo,Toscana,Italia,Paying,yes,yes,unknown
+73,42.17361,-1.59155,Arguedas,Navarra - Nafarroa,España,Free,yes,no,yes
+74,42.21404,-2.23987,Arnedillo,La Rioja,España,Free,yes,yes,unknown
+75,50.29442,2.78836,Saint-Laurent-Blangy,Hauts-de-France,France,Free,yes,no,yes
+76,49.33906,-0.6258,Arromanches-les-Bains,Normandie,France,Free,yes,yes,yes
+77,42.58921,-2.0957,Arróniz,Navarra - Nafarroa,España,Free,yes,no,yes
+78,42.87507,-0.39439,Laruns,Nouvelle-Aquitaine,France,Free,yes,unknown,yes
+79,42.08722,-8.41389,As Neves,Galicia,España,Free,yes,unknown,yes
+80,42.81034,-7.10733,As Nogais,Galicia,España,Free,yes,no,yes
+81,41.18698,0.56835,Ascó,Catalunya,España,Free,yes,no,unknown
+82,42.45136,-6.06599,Astorga,Castilla y León,España,Free,yes,no,unknown
+83,43.63736,0.58601,Auch,Occitanie,France,Paying,yes,yes,unknown
+84,47.66396,-2.97342,Auray,Bretagne,France,Free,yes,no,yes
+85,45.0518,6.07838,Auris,Auvergne-Rhône-Alpes,France,Free,yes,no,yes
+86,46.95545,4.3163,Autun,Bourgogne-Franche-Comté,France,Free,yes,yes,yes
+87,45.07324,7.39034,Avigliana,Piemonte,Italia,Free,yes,no,yes
+88,47.21286,0.17715,Avoine,Centre-Val de Loire,France,Paying,yes,no,yes
+89,42.65421,-2.0455,Iratxe,Navarra - Nafarroa,España,Free,yes,no,yes
+90,50.31196,9.79737,Bad Brückenau,Bayern,Deutschland,Paying,yes,no,yes
+91,38.88471,-6.97873,Badajoz,Extremadura,España,Free,yes,yes,yes
+92,48.78174,8.20428,Baden-Baden,Baden-Württemberg,Deutschland,Paying,yes,no,yes
+93,37.99629,-3.45957,Baeza,Andalucía,España,Free,yes,no,yes
+94,43.0733,0.15366,Bagnères-de-Bigorre,Occitanie,France,Free,yes,no,unknown
+95,45.97138,6.0312,Dalmaz,Auvergne-Rhône-Alpes,France,Paying,yes,no,unknown
+96,46.22619,14.70403,Kamnik,Slovenija,Slovenija,Free,yes,no,yes
+97,49.88608,10.90295,Bamberg,Bayern,Deutschland,Paying,yes,no,yes
+98,43.33976,-8.35468,Oleiros,Galicia,España,Free,yes,no,yes
+99,47.67176,12.01018,Bayrischzell,Bayern,Deutschland,Paying,yes,unknown,yes
+100,47.01776,4.83685,Beaune,Bourgogne-Franche-Comté,France,Free,yes,no,yes
+101,42.85283,-7.15322,Becerreá,Galicia,España,Free,yes,no,yes
+102,44.12493,5.17239,Bédoin,Provence-Alpes-Côte d'Azur,France,Paying,yes,yes,yes
+103,46.20135,9.01748,Bellinzona,Ticino,Schweiz/Suisse/Svizzera/Svizra,Paying,yes,no,yes
+104,46.13766,12.2141,Belluno,Veneto,Italia,Paying,yes,yes,yes
+105,41.24624,1.56985,Bellvei,Catalunya,España,Paying,yes,yes,yes
+106,39.70905,-1.10108,Benagéber,Comunitat Valenciana,España,Free,yes,no,yes
+107,43.1034,-2.42424,Bergara,Euskadi,España,Free,yes,no,yes
+108,44.87108,0.50389,Bergerac,Nouvelle-Aquitaine,France,Free,yes,no,unknown
+109,43.4233,-2.72611,Bermeo,Euskadi,España,Free,yes,no,unknown
+110,44.36954,-0.24272,Bernos-Beaulac,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+111,42.84038,-1.6652,Berriozar,Navarra - Nafarroa,España,Free,yes,no,yes
+112,39.57951,-0.44537,Bétera,Comunitat Valenciana,España,Paying,yes,yes,unknown
+113,43.4659,-1.57174,Biarritz,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+114,39.13286,-0.79065,Bicorp,Comunitat Valenciana,España,Paying,yes,yes,unknown
+115,49.96882,7.94462,Bingen am Rhein,Rheinland-Pfalz,Deutschland,Paying,yes,no,yes
+116,44.45887,-1.24529,La Teste-de-Buch,Nouvelle-Aquitaine,France,Paying,yes,no,unknown
+117,50.0537,11.7935,Rangen,Bayern,Deutschland,Free,yes,yes,yes
+118,43.42094,-6.8145,El Serredo,Asturias / Asturies,España,Free,yes,no,yes
+119,42.87276,-5.32588,Boñar,Castilla y León,España,Free,yes,no,unknown
+120,44.17784,0.66167,Boé,Nouvelle-Aquitaine,France,Free,yes,no,yes
+121,48.68872,8.1292,Bühl,Baden-Württemberg,Deutschland,Paying,yes,no,unknown
+122,46.47317,11.33717,Bolzano - Bozen,Trentino-Alto Adige/Südtirol,Italia,Paying,yes,no,yes
+123,45.39896,2.49721,Bort-les-Orgues,Nouvelle-Aquitaine,France,Free,yes,no,yes
+124,50.74415,1.59751,Boulogne-sur-Mer,Hauts-de-France,France,Paying,yes,unknown,yes
+125,47.07638,2.39861,Bourges,Centre-Val de Loire,France,Free,yes,yes,unknown
+126,43.17786,0.97461,Boussens,Occitanie,France,Free,yes,no,yes
+127,44.48413,1.644,Bouziès,Occitanie,France,Paying,yes,yes,unknown
+128,46.33312,13.53951,Bovec,Slovenija,Slovenija,Paying,yes,no,unknown
+129,41.80398,-6.74596,Bragança,Bragança,Portugal,Free,yes,yes,unknown
+130,45.3791,0.64585,Brantôme en Périgord,Nouvelle-Aquitaine,France,Free,unknown,unknown,unknown
+131,45.36042,0.64791,Brantôme en Périgord,Nouvelle-Aquitaine,France,Paying,yes,no,unknown
+132,45.92608,7.62047,Breuil-Cervinia,Valle d'Aosta / Vallée d'Aoste,Italia,Paying,yes,no,yes
+133,44.00515,2.69351,Broquiès,Occitanie,France,Free,yes,yes,yes
+134,45.33291,-0.04577,Brossac,Nouvelle-Aquitaine,France,Free,yes,no,yes
+135,40.36809,-2.76267,Garcinarro,Castilla-La Mancha,España,Paying,yes,yes,yes
+136,39.40275,8.40184,Bugerru/Buggerru,Sardigna/Sardegna,Italia,Paying,yes,no,yes
+137,43.6532,-7.35838,Burela,Galicia,España,Free,yes,no,unknown
+138,42.35139,-3.68056,Burgos,Castilla y León,España,Free,yes,no,yes
+139,36.81611,-2.14961,Níjar,Andalucía,España,Paying,yes,yes,yes
+140,44.44022,1.4409,Cahors,Occitanie,France,Free,yes,no,unknown
+141,41.73494,1.51397,Calaf,Catalunya,España,Free,yes,no,unknown
+142,41.35056,-1.64679,Calatayud,Aragón,España,Free,yes,no,yes
+143,48.2741,-4.60858,Camaret-sur-Mer,Bretagne,France,Paying,yes,no,unknown
+144,43.01819,0.17829,Campan,Occitanie,France,Free,yes,yes,unknown
+145,46.09956,14.51606,Ljubljana,Slovenija,Slovenija,Paying,yes,yes,unknown
+146,38.93856,-0.1527,l'Alqueria de la Comtessa,Comunitat Valenciana,España,Paying,yes,yes,yes
+147,44.568,2.58947,Campuac,Occitanie,France,Free,yes,yes,yes
+148,43.58487,-5.77208,Candás,Asturias / Asturies,España,Free,yes,no,yes
+149,43.3526,-5.12553,Cangas de Onís / Cangues d'Onís,Asturias / Asturies,España,Free,yes,no,unknown
+150,42.25536,-8.79764,Cangas,Galicia,España,Free,yes,no,yes
+151,40.52591,-0.40742,Cantavieja,Aragón,España,Free,yes,no,yes
+152,43.63606,-1.44719,Capbreton,Nouvelle-Aquitaine,France,Paying,yes,yes,yes
+153,41.33796,-1.23041,Cariñena,Aragón,España,Free,yes,no,yes
+154,43.73358,-7.87437,Cariño,Galicia,España,Free,yes,no,yes
+155,47.58462,-3.08237,Carnac,Bretagne,France,Free,yes,yes,yes
+156,42.84105,-9.09585,Carnota,Galicia,España,Free,yes,no,yes
+157,42.33812,-4.608,Carrión de los Condes,Castilla y León,España,Free,yes,no,unknown
+158,43.47287,-0.93416,Salies-de-Béarn,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+159,37.61503,-1.00549,Cartagena,Región de Murcia,España,Paying,yes,yes,yes
+160,45.18262,-0.5835,Cartelègue,Nouvelle-Aquitaine,France,Free,yes,no,yes
+161,42.54583,-2.91472,Casalarreina,La Rioja,España,Free,yes,no,yes
+162,44.63341,8.73269,Casaleggio Boiro,Piemonte,Italia,Free,yes,no,yes
+163,44.31055,0.07896,Casteljaloux,Nouvelle-Aquitaine,France,Free,unknown,unknown,unknown
+164,43.84601,6.5165,Castellane,Provence-Alpes-Côte d'Azur,France,Paying,yes,no,unknown
+165,36.28332,-5.42141,Castellar de la Frontera,Andalucía,España,Free,yes,no,yes
+166,42.99998,1.34027,Castelnau-Durban,Occitanie,France,Free,yes,no,yes
+167,44.27445,1.35239,Castelnau-Montratier-Sainte-Alauzie,Occitanie,France,Free,yes,no,unknown
+168,41.03967,-8.27381,Castelo de Paiva,Aveiro,Portugal,Free,yes,no,yes
+169,45.73949,7.48541,Fénis,Valle d'Aosta / Vallée d'Aoste,Italia,Free,yes,no,yes
+170,39.66098,-2.38315,Castillo de Garcimuñoz,Castilla-La Mancha,España,Free,yes,no,yes
+171,42.37476,-7.41793,Castro Caldelas,Galicia,España,Free,yes,no,yes
+172,37.22004,-7.44465,Castro Marim,Faro,Portugal,Free,yes,no,unknown
+173,41.72947,1.52606,Calaf,Catalunya,España,Paying,yes,no,yes
+174,50.07606,3.64633,Catillon-sur-Sambre,Hauts-de-France,France,Free,yes,no,yes
+175,47.6332,7.01866,Chavannes-sur-l'Étang,Grand Est,France,Paying,yes,no,yes
+176,52.62772,10.07243,Celle,Niedersachsen,Deutschland,Free,yes,no,yes
+177,48.11816,-1.59108,Cesson-Sévigné,Bretagne,France,Free,yes,no,yes
+178,38.08146,-1.26612,Ceutí,Región de Murcia,España,Free,yes,no,yes
+179,47.33826,-1.26556,Orée d'Anjou,Pays de la Loire,France,Paying,yes,yes,yes
+180,45.82484,0.45165,Chasseneuil-sur-Bonnieure,Nouvelle-Aquitaine,France,Free,yes,no,yes
+181,47.70314,-1.37806,Châteaubriant,Pays de la Loire,France,Free,yes,no,unknown
+182,45.59879,-0.05668,Châteauneuf-sur-Charente,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+183,44.00462,10.56248,Borgo a Mozzano,Toscana,Italia,Free,yes,no,yes
+184,49.05415,7.43442,Bitche,Grand Est,France,Free,yes,yes,yes
+185,55.65903,12.55779,København,Region Hovedstaden,Danmark,Paying,yes,yes,yes
+186,41.42423,2.20726,Barcelona,Catalunya,España,Paying,yes,yes,unknown
+187,48.91888,-0.48117,Clécy,Normandie,France,Free,yes,yes,yes
+188,45.60844,7.35834,Cogne,Valle d'Aosta / Vallée d'Aoste,Italia,Paying,yes,unknown,yes
+189,40.19993,-8.42958,Coimbra,Coimbra,Portugal,Free,yes,no,yes
+190,43.3804,-4.55387,Ribadedeva,Asturias / Asturies,España,Free,yes,no,yes
+191,41.36527,2.02558,Santa Coloma de Cervelló,Catalunya,España,Free,yes,yes,unknown
+192,43.48468,-5.26054,Colunga,Asturias / Asturies,España,Paying,yes,yes,yes
+193,43.70624,6.50646,Comps-sur-Artuby,Provence-Alpes-Côte d'Azur,France,Free,yes,yes,yes
+194,47.87897,-3.92052,Concarneau,Bretagne,France,Paying,yes,yes,yes
+195,46.65264,5.59955,Conliège,Bourgogne-Franche-Comté,France,Free,yes,yes,unknown
+196,39.47701,-8.34332,Praia do Ribatejo,Santarém,Portugal,Free,yes,yes,yes
+197,44.09353,-1.31921,Saint-Julien-en-Born,Nouvelle-Aquitaine,France,Paying,yes,yes,yes
+198,44.06432,1.95788,Cordes-sur-Ciel,Occitanie,France,Paying,yes,no,yes
+199,43.23353,-4.39832,Rionansa,Cantabria,España,Free,yes,yes,unknown
+200,46.29857,0.1783,Valence-en-Poitou,Nouvelle-Aquitaine,France,Free,yes,yes,yes
+201,44.77655,-0.34809,Créon,Nouvelle-Aquitaine,France,Free,yes,no,yes
+202,46.45903,1.60571,Cuzion,Centre-Val de Loire,France,Free,yes,no,yes
+203,47.24089,-0.0226,Saumur,Pays de la Loire,France,Paying,yes,yes,yes
+204,43.28942,-1.50419,Urdazubi/Urdax,Navarra - Nafarroa,España,Free,yes,no,yes
+205,43.71435,-1.04945,Dax,Nouvelle-Aquitaine,France,Free,yes,no,yes
+206,38.7005,-8.06401,Arraiolos,Évora,Portugal,Free,yes,no,yes
+207,42.89361,-0.11256,Cauterets,Occitanie,France,Paying,yes,yes,yes
+208,40.11313,-8.49521,Condeixa-a-Nova,Coimbra,Portugal,Free,yes,no,yes
+209,43.30792,-2.01442,Donostia - San Sebastián,Euskadi,España,Paying,yes,no,unknown
+210,43.56322,-7.25775,Foz,Galicia,España,Free,yes,no,yes
+211,48.24051,5.60792,Bourmont-entre-Meuse-et-Mouzon,Grand Est,France,Paying,yes,no,unknown
+212,48.45451,-2.02963,Lanvallay,Bretagne,France,Free,yes,yes,yes
+213,42.98787,-0.4224,Laruns,Nouvelle-Aquitaine,France,Paying,yes,yes,unknown
+214,37.16536,-7.51994,Vila Nova de Cacela,Faro,Portugal,Paying,yes,no,yes
+215,43.52395,13.43666,Offagna,Marche,Italia,Free,yes,no,yes
+216,49.92636,2.92651,Péronne,Hauts-de-France,France,Free,yes,unknown,yes
+217,42.51855,-4.74117,Saldaña,Castilla y León,España,Free,yes,no,unknown
+218,38.91809,-9.3835,São João das Lampas e Terrugem,Lisboa,Portugal,Free,yes,no,yes
+219,43.31207,-1.58398,Sare,Nouvelle-Aquitaine,France,Paying,yes,yes,yes
+220,48.23335,7.40611,Orschwiller,Grand Est,France,Free,yes,yes,yes
+221,42.52634,-1.68285,Tafalla,Navarra - Nafarroa,España,Free,yes,yes,yes
+222,42.16312,0.89043,Tremp,Catalunya,España,Free,yes,no,unknown
+223,45.43375,10.97838,Verona,Veneto,Italia,Paying,yes,no,unknown
+224,43.7793,-1.40689,Vieux-Boucau-les-Bains,Nouvelle-Aquitaine,France,Paying,yes,yes,unknown
+225,41.49793,-5.74347,Zamora,Castilla y León,España,Free,yes,yes,unknown
+226,52.72125,6.07499,Giethoorn,Overijssel,Nederland,Paying,yes,yes,yes
+227,42.1523,2.54679,Santa Pau,Catalunya,España,Paying,yes,yes,unknown
+228,43.59621,-1.45486,Labenne,Nouvelle-Aquitaine,France,Paying,yes,yes,yes
+229,49.80102,10.16844,Dettelbach,Bayern,Deutschland,Paying,yes,no,yes
+230,49.93013,1.0866,Dieppe,Normandie,France,Paying,yes,yes,yes
+231,46.48085,3.97131,Digoin,Bourgogne-Franche-Comté,France,Free,yes,yes,yes
+232,49.07818,10.32908,Dinkelsbühl,Bayern,Deutschland,Paying,yes,yes,yes
+233,44.80049,1.22165,Domme,Nouvelle-Aquitaine,France,Paying,yes,no,unknown
+234,42.87535,0.97549,Bonac-Irazein,Occitanie,France,Free,yes,yes,yes
+235,50.05831,1.36404,Le Tréport,Normandie,France,Paying,yes,yes,unknown
+236,49.4717,6.07812,Dudelange,Canton Esch-sur-Alzette,Lëtzebuerg,Free,yes,no,yes
+237,42.86144,2.5655,Duilhac-sous-Peyrepertuse,Occitanie,France,Free,yes,yes,unknown
+238,41.9526,-2.92624,Duruelo de la Sierra,Castilla y León,España,Free,yes,no,yes
+239,43.27809,-5.67451,Llangréu/Langreo,Asturias / Asturies,España,Free,yes,no,yes
+240,43.28637,-5.63889,Samartín del Rei Aurelio,Asturias / Asturies,España,Free,yes,no,yes
+241,42.9565,-6.09289,Cabrillanes,Castilla y León,España,Paying,yes,unknown,yes
+242,36.59877,-6.22103,El Puerto de Santa María,Andalucía,España,Paying,no,no,unknown
+243,42.51499,-2.61568,Elciego,Euskadi,España,Free,yes,yes,yes
+244,47.73905,-2.58073,Elven,Bretagne,France,Free,yes,yes,unknown
+245,41.85776,3.11505,Palamós,Catalunya,España,Paying,yes,no,yes
+246,42.53263,1.57858,Encamp,Andorra,Andorra,Paying,yes,yes,unknown
+247,41.93261,-8.12141,Entrimo,Galicia,España,Free,yes,no,unknown
+248,42.93374,2.21584,Espéraza,Occitanie,France,Free,yes,no,yes
+249,43.08566,-3.55759,Espinosa de los Monteros,Castilla y León,España,Free,yes,no,yes
+250,42.97912,-0.74806,Arette,Nouvelle-Aquitaine,France,Free,yes,yes,unknown
+251,45.02367,6.12393,Mont-de-Lans,Auvergne-Rhône-Alpes,France,Paying,no,no,unknown
+252,40.75409,-8.56634,Estarreja,Aveiro,Portugal,Paying,yes,no,yes
+253,49.70039,0.21611,Étretat,Normandie,France,Paying,yes,no,yes
+254,48.93586,8.41746,Ettlingen,Baden-Württemberg,Deutschland,Free,yes,no,yes
+255,43.39611,-8.07639,Monfero,Galicia,España,Paying,yes,yes,yes
+256,48.87739,2.78579,Chessy,Île-de-France,France,Paying,yes,yes,unknown
+257,42.39275,-1.79573,Falces,Navarra - Nafarroa,España,Free,yes,no,yes
+258,54.94865,11.98694,Vordingborg Kommune,Region Sjælland,Danmark,Free,yes,yes,unknown
+259,39.63222,-8.67272,Ourém,Santarém,Portugal,Free,yes,yes,unknown
+260,45.74963,6.28631,Faverges-Seythenex,Auvergne-Rhône-Alpes,France,Free,yes,no,yes
+261,49.76029,0.37427,Fécamp,Normandie,France,Free,no,no,yes
+262,47.48877,7.31173,Ferrette,Grand Est,France,Free,yes,unknown,yes
+263,43.49342,-8.24015,Ferrol,Galicia,España,Free,yes,no,unknown
+264,44.1654,8.33785,Finale Ligure,Liguria,Italia,Paying,yes,no,yes
+265,44.32586,3.59044,Florac Trois Rivières,Occitanie,France,Free,yes,yes,yes
+266,42.79736,-8.58452,Teo,Galicia,España,Free,yes,no,yes
+267,43.34309,-6.8519,Illano,Asturias / Asturies,España,Free,yes,no,yes
+268,44.56051,-0.02138,Fontet,Nouvelle-Aquitaine,France,Paying,yes,yes,unknown
+269,48.35518,-1.21102,Fougères,Bretagne,France,Free,yes,no,unknown
+270,45.98174,-1.087,Fouras,Nouvelle-Aquitaine,France,Paying,yes,no,unknown
+271,43.99403,0.22974,Fourcès,Occitanie,France,Paying,yes,yes,yes
+272,39.42841,-9.2201,Foz do Arelho,Leiria,Portugal,Paying,yes,yes,yes
+273,38.16982,-6.64944,Fregenal de la Sierra,Extremadura,España,Free,yes,yes,yes
+274,42.76033,-3.29598,Frías,Castilla y León,España,Paying,yes,no,yes
+275,47.99943,7.82561,Freiburg im Breisgau,Baden-Württemberg,Deutschland,Paying,yes,no,yes
+276,42.26485,-4.41215,Frómista,Castilla y León,España,Free,yes,no,yes
+277,50.55692,9.66611,Fulda,Hessen,Deutschland,Paying,yes,yes,yes
+278,44.49813,0.97209,Fumel,Nouvelle-Aquitaine,France,Free,yes,yes,unknown
+279,45.70166,7.87278,Gaby,Valle d'Aosta / Vallée d'Aoste,Italia,Paying,yes,yes,yes
+280,49.00229,9.76614,Gaildorf,Baden-Württemberg,Deutschland,Free,yes,no,yes
+281,47.50466,11.10716,Garmisch-Partenkirchen,Bayern,Deutschland,Paying,yes,yes,yes
+282,42.73823,-0.01932,Gavarnie-Gèdre,Occitanie,France,Paying,yes,no,yes
+283,46.57769,4.23505,Génelard,Bourgogne-Franche-Comté,France,Free,yes,yes,unknown
+284,43.91512,5.19763,Gordes,Provence-Alpes-Côte d'Azur,France,Paying,yes,no,yes
+285,43.57368,2.96758,Mons,Occitanie,France,Paying,yes,yes,yes
+286,44.73399,1.38481,Gourdon,Occitanie,France,Free,yes,no,yes
+287,43.21565,-6.87588,Grandas de Salime,Asturias / Asturies,España,Free,yes,no,yes
+288,39.9799,0.02274,Castelló de la Plana,Comunitat Valenciana,España,Free,yes,yes,yes
+289,43.09594,3.11004,Gruissan,Occitanie,France,Paying,yes,yes,yes
+290,47.3338,-2.42041,Guérande,Pays de la Loire,France,Free,yes,no,yes
+291,43.17727,-7.87941,Guitiriz,Galicia,España,Free,yes,no,yes
+292,52.09552,9.35982,Hameln,Niedersachsen,Deutschland,Paying,no,no,yes
+293,51.42018,9.64856,Hann. Münden,Niedersachsen,Deutschland,Paying,yes,yes,yes
+294,50.84602,3.31089,Harelbeke,West-Vlaanderen,België / Belgique / Belgien,Paying,yes,no,yes
+295,50.56852,9.34615,Herbstein,Hessen,Deutschland,Free,yes,no,yes
+296,51.02763,9.41451,Homberg (Efze),Hessen,Deutschland,Free,yes,yes,yes
+297,41.8439,-3.16446,Hontoria del Pinar,Castilla y León,España,Free,yes,no,yes
+298,42.77624,-1.38536,Lónguida/Longida,Navarra - Nafarroa,España,Free,yes,yes,unknown
+299,46.16882,14.42246,Medvode,Slovenija,Slovenija,Paying,yes,yes,yes
+300,49.161,20.29344,Vysoké Tatry,Prešovský kraj,Slovensko,Paying,yes,yes,yes
+301,37.18611,-4.03972,Huétor Tájar,Andalucía,España,Free,yes,yes,yes
+302,50.86823,10.96335,Ichtershausen,Thüringen,Deutschland,Free,yes,no,yes
+303,42.53566,-8.8693,A Illa de Arousa,Galicia,España,Paying,yes,no,yes
+304,43.29782,-1.97101,Donostia - San Sebastián,Euskadi,España,Free,yes,no,yes
+305,37.26221,-1.85359,Vera,Andalucía,España,Paying,yes,yes,no
+306,44.5446,-0.25736,Langon,Nouvelle-Aquitaine,France,Free,yes,no,yes
+307,42.56766,-0.54552,Jaca,Aragón,España,Free,yes,no,yes
+308,39.18758,-1.07611,Jalance,Comunitat Valenciana,España,Free,yes,no,yes
+309,47.62161,-1.61161,Jans,Pays de la Loire,France,Free,yes,yes,yes
+310,65.14335,21.50917,Jävre,Norrbottens län,Sverige,Free,yes,yes,yes
+311,59.0173,6.0439,Jørpeland,Rogaland,Norge,Paying,yes,yes,no
+312,47.95631,-2.55029,Josselin,Bretagne,France,Free,yes,yes,unknown
+313,49.4308,0.81484,Jumièges,Normandie,France,Free,yes,no,yes
+314,56.68133,16.38084,Kalmar,Kalmar län,Sverige,Free,yes,yes,yes
+315,56.16987,15.59416,Karlskrona,Blekinge län,Sverige,Free,yes,no,yes
+316,48.13608,7.26188,Kaysersberg-Vignoble,Grand Est,France,Paying,yes,yes,yes
+317,48.5634,7.8165,Kehl,Baden-Württemberg,Deutschland,Paying,yes,no,yes
+318,47.52218,-2.8584,Saint-Gildas-de-Rhuys,Bretagne,France,Paying,yes,no,yes
+319,52.01281,4.71607,Gouda,Zuid-Holland,Nederland,Paying,no,yes,unknown
+320,43.25968,-2.96401,Bilbao,Euskadi,España,Paying,yes,yes,unknown
+321,48.33522,16.29915,Gemeinde Klosterneuburg,Niederösterreich,Österreich,Free,yes,no,yes
+322,40.65913,0.67527,Amposta,Catalunya,España,Free,yes,yes,unknown
+323,40.48848,-6.11623,La Alberca,Castilla y León,España,Free,yes,no,yes
+324,41.91119,-4.78079,Ampudia,Castilla y León,España,Free,yes,no,yes
+325,48.60376,-1.47701,Pontorson,Normandie,France,Paying,yes,yes,unknown
+326,39.39714,-2.43577,San Clemente,Castilla-La Mancha,España,Free,yes,unknown,yes
+327,46.96568,-2.21501,La Guérinière,Pays de la Loire,France,Paying,yes,no,yes
+328,39.89176,-0.95707,La Yesa,Comunitat Valenciana,España,Free,yes,no,yes
+329,43.15947,-6.10098,Teverga,Asturias / Asturies,España,Free,yes,no,yes
+330,37.9593,-2.4313,Puebla de Don Fadrique,Andalucía,España,Free,yes,no,yes
+331,46.6683,-1.4184,La Roche-sur-Yon,Pays de la Loire,France,Free,yes,yes,yes
+332,40.41604,0.1727,la Salzadella,Comunitat Valenciana,España,Free,yes,no,yes
+333,42.35876,1.46506,la Seu d'Urgell,Catalunya,España,Free,yes,no,yes
+334,44.10417,9.85907,La Spezia,Liguria,Italia,Paying,yes,unknown,yes
+335,44.65154,-1.1481,La Teste-de-Buch,Nouvelle-Aquitaine,France,Free,yes,no,yes
+336,44.82434,1.18395,La Roque-Gageac,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+337,42.58719,-2.79458,Labastida/Bastida,Euskadi,España,Free,yes,no,unknown
+338,44.32886,-1.15096,Gastes,Nouvelle-Aquitaine,France,Paying,yes,yes,yes
+339,48.93806,5.71451,Heudicourt-sous-les-Côtes,Grand Est,France,Paying,yes,yes,yes
+340,47.47935,1.31891,Le Controis-en-Sologne,Centre-Val de Loire,France,Free,yes,yes,yes
+341,43.64677,3.38939,Clermont-l'Hérault,Occitanie,France,Paying,yes,yes,yes
+342,44.48619,-1.08447,Sanguinet,Nouvelle-Aquitaine,France,Paying,yes,yes,yes
+343,46.46733,5.69212,Maisod,Bourgogne-Franche-Comté,France,Paying,yes,yes,yes
+344,46.8125,6.30367,Saint-Point-Lac,Bourgogne-Franche-Comté,France,Paying,yes,yes,unknown
+345,37.11581,-8.67895,Lagos,Faro,Portugal,Paying,yes,yes,yes
+346,43.09275,2.62028,Lagrasse,Occitanie,France,Paying,yes,yes,yes
+347,48.44747,-4.77684,Lampaul-Plouarzel,Bretagne,France,Paying,yes,yes,unknown
+348,48.49433,-4.03826,Lampaul-Guimiliau,Bretagne,France,Free,unknown,no,yes
+349,43.2176,-3.43927,Lanestosa,Euskadi,España,Paying,yes,yes,yes
+350,59.32021,18.03195,Stockholm,Stockholms län,Sverige,Paying,yes,yes,yes
+351,44.52666,-0.21663,Langon,Nouvelle-Aquitaine,France,Paying,yes,yes,yes
+352,43.70418,2.12998,Lautrec,Occitanie,France,Free,yes,no,yes
+353,42.52724,2.83773,Le Boulou,Occitanie,France,Free,yes,yes,unknown
+354,43.28591,3.51746,Agde,Occitanie,France,Paying,yes,no,unknown
+355,48.708,-3.82716,Le Diben,Bretagne,France,Free,yes,yes,yes
+356,43.15187,6.43199,Le Lavandou,Provence-Alpes-Côte d'Azur,France,Paying,yes,yes,unknown
+357,45.54596,-1.05453,Le Verdon-sur-Mer,Nouvelle-Aquitaine,France,Paying,yes,no,unknown
+358,43.35839,-2.5072,Lekeitio,Euskadi,España,Free,yes,unknown,unknown
+359,44.88311,0.52525,Lembras,Nouvelle-Aquitaine,France,Free,yes,no,yes
+360,42.60462,-5.58494,León,Castilla y León,España,Free,yes,yes,yes
+361,42.23575,2.28419,Sant Joan de les Abadesses,Catalunya,España,Free,yes,no,yes
+362,42.56351,2.06857,Les Angles,Occitanie,France,Paying,yes,yes,yes
+363,44.93427,6.73533,Montgenèvre,Provence-Alpes-Côte d'Azur,France,Paying,yes,no,yes
+364,46.22943,-1.4834,Les Portes-en-Ré,Nouvelle-Aquitaine,France,Paying,yes,yes,no
+365,44.93885,1.00952,Les Eyzies,Nouvelle-Aquitaine,France,Paying,yes,yes,unknown
+366,42.91385,3.01995,Leucate,Occitanie,France,Paying,yes,unknown,yes
+367,42.90023,3.05271,Leucate,Occitanie,France,Paying,yes,yes,yes
+368,47.55847,9.70041,Lindau (Bodensee),Bayern,Deutschland,Paying,yes,no,yes
+369,43.86204,1.81846,Lisle-sur-Tarn,Occitanie,France,Free,yes,no,unknown
+370,43.26799,-1.90135,Errenteria,Euskadi,España,Free,yes,yes,yes
+371,45.41292,7.46294,Locana,Piemonte,Italia,Paying,yes,yes,yes
+372,48.09817,-4.2124,Locronan,Bretagne,France,Paying,yes,unknown,yes
+373,42.47809,-2.45729,Logroño,La Rioja,España,Free,yes,no,unknown
+374,39.33305,-5.47919,Polígono industrial de Logrosán,Extremadura,España,Free,yes,no,unknown
+375,38.07944,-1.25806,Lorquí,Región de Murcia,España,Free,yes,no,yes
+376,43.84024,10.4886,Lucca,Toscana,Italia,Paying,yes,yes,unknown
+377,45.46066,10.63311,Sirmione,Lombardia,Italia,Paying,yes,yes,yes
+378,43.00445,-7.56139,Lugo,Galicia,España,Free,yes,no,unknown
+379,43.40706,-5.81086,Siero,Asturias / Asturies,España,Free,yes,no,yes
+380,42.40932,-7.72207,Nogueira de Ramuín,Galicia,España,Free,yes,no,yes
+381,45.43396,7.22823,Ceresole Reale,Piemonte,Italia,Paying,yes,yes,yes
+382,42.63352,-8.85318,Abanqueiro,Galicia,España,Free,yes,yes,unknown
+383,41.53762,-6.95713,Macedo de Cavaleiros,Bragança,Portugal,Free,yes,no,unknown
+384,43.04908,-5.18356,Maraña,Castilla y León,España,Paying,yes,yes,yes
+385,45.91843,9.31547,Mandello del Lario,Lombardia,Italia,Paying,yes,no,yes
+386,50.80368,8.77528,Marburg,Hessen,Deutschland,Paying,yes,yes,yes
+387,43.67857,10.27903,Pisa,Toscana,Italia,Paying,yes,yes,yes
+388,42.86634,9.34382,Barrettali,Corse,France,Paying,yes,no,yes
+389,52.4565,5.10465,Marken,Noord-Holland,Nederland,Paying,no,yes,unknown
+390,37.88929,12.47127,Marsala,Sicilia,Italia,Free,yes,yes,yes
+391,46.8055,1.03811,Martizay,Centre-Val de Loire,France,Free,yes,yes,unknown
+392,41.36806,1.77321,Avinyonet del Penedès,Catalunya,España,Free,yes,no,unknown
+393,42.07503,3.09813,Bellcaire d'Empordà,Catalunya,España,Paying,yes,yes,unknown
+394,50.32236,7.22835,Mayen,Rheinland-Pfalz,Deutschland,Free,yes,no,no
+395,41.17138,-2.43203,Medinaceli,Castilla y León,España,Free,yes,no,unknown
+396,68.4941,14.81341,Melbu,Nordland,Norge,Paying,yes,unknown,yes
+397,47.40462,-2.49115,Quimiac,Pays de la Loire,France,Free,no,no,unknown
+398,43.81613,-1.40081,Messanges,Nouvelle-Aquitaine,France,Paying,yes,yes,unknown
+399,43.43304,0.30922,Miélan,Occitanie,France,Free,yes,yes,yes
+400,44.21276,-1.2821,Mimizan,Nouvelle-Aquitaine,France,Paying,yes,no,unknown
+401,43.08502,1.87394,Mirepoix,Occitanie,France,Free,yes,yes,yes
+402,43.42769,-7.37014,Mondoñedo,Galicia,España,Free,yes,no,unknown
+403,50.554,6.2322,Monschau,Nordrhein-Westfalen,Deutschland,Paying,yes,no,yes
+404,42.50764,2.12249,Mont-Louis,Occitanie,France,Paying,yes,no,yes
+405,47.50663,6.79132,Montbéliard,Bourgogne-Franche-Comté,France,Free,yes,no,unknown
+406,45.21796,-0.18348,Montguyon,Nouvelle-Aquitaine,France,Free,yes,yes,yes
+407,47.15773,1.20173,Montrésor,Centre-Val de Loire,France,Free,yes,no,yes
+408,41.91864,0.18939,Monzón,Aragón,España,Free,yes,yes,yes
+409,40.62407,-0.09144,Morella,Comunitat Valenciana,España,Free,yes,no,unknown
+410,48.57417,-3.83156,Morlaix,Bretagne,France,Free,yes,yes,yes
+411,46.55806,3.32464,Moulins,Auvergne-Rhône-Alpes,France,Paying,yes,no,yes
+412,46.33329,0.81055,Moulismes,Nouvelle-Aquitaine,France,Free,yes,yes,unknown
+413,38.03972,-1.48139,Mula,Región de Murcia,España,Free,yes,no,yes
+414,46.37796,-0.06916,Bougon,Nouvelle-Aquitaine,France,Free,yes,unknown,yes
+415,43.09903,-9.21275,Muxía,Galicia,España,Free,yes,no,yes
+416,48.69226,6.19342,Nancy,Grand Est,France,Paying,yes,yes,unknown
+417,46.15671,5.60363,Nantua,Auvergne-Rhône-Alpes,France,Paying,yes,yes,unknown
+418,41.75669,1.90929,Navarcles,Catalunya,España,Free,yes,no,unknown
+419,43.40394,-6.54168,Tineo,Asturias / Asturies,España,Free,yes,yes,yes
+420,43.545,-6.72217,Navia,Asturias / Asturies,España,Free,yes,yes,yes
+421,42.91201,-8.73342,Negreira,Galicia,España,Free,yes,no,yes
+422,40.78257,17.23397,Alberobello,Puglia,Italia,Paying,yes,no,yes
+423,47.0008,-2.25208,Noirmoutier-en-l'Île,Pays de la Loire,France,Paying,yes,no,yes
+424,48.85535,10.48438,Nördlingen,Bayern,Deutschland,Free,yes,yes,yes
+425,46.77252,6.03648,Nozeroy,Bourgogne-Franche-Comté,France,Paying,yes,yes,unknown
+426,43.53751,-7.93867,As Somozas,Galicia,España,Free,yes,yes,yes
+427,42.27555,-8.83372,Cangas,Galicia,España,Paying,yes,unknown,yes
+428,43.02792,-2.40563,Oñati,Euskadi,España,Free,yes,yes,yes
+429,47.40849,10.28578,Oberstdorf,Bayern,Deutschland,Paying,yes,yes,yes
+430,39.3564,-9.15703,Óbidos,Leiria,Portugal,Paying,yes,no,unknown
+431,49.19718,9.51126,Öhringen,Baden-Württemberg,Deutschland,Paying,yes,yes,unknown
+432,42.48027,-1.64719,Olite/Erriberri,Navarra - Nafarroa,España,Free,yes,no,yes
+433,43.18371,-0.60846,Oloron-Sainte-Marie,Nouvelle-Aquitaine,France,Free,yes,no,yes
+434,47.49189,7.39047,Oltingue,Grand Est,France,Free,yes,unknown,yes
+435,36.94139,-5.25306,Olvera,Andalucía,España,Paying,yes,no,yes
+436,45.93565,1.02518,Oradour-sur-Glane,Nouvelle-Aquitaine,France,Free,yes,yes,unknown
+437,43.17861,-1.48806,Baztan,Navarra - Nafarroa,España,Free,yes,no,yes
+438,45.79726,8.41193,Orta San Giulio,Piemonte,Italia,Free,yes,yes,yes
+439,43.56083,-6.73389,Coaña,Asturias / Asturies,España,Free,yes,no,yes
+440,59.91824,10.6759,Oslo,Norge,Norge,Paying,yes,yes,no
+441,43.56505,-7.64381,Ourol,Galicia,España,Free,yes,no,unknown
+442,43.38283,-5.82377,Oviedo,Asturias / Asturies,España,Free,yes,no,yes
+443,48.7825,-3.04694,Paimpol,Bretagne,France,Free,yes,no,unknown
+444,42.38278,-7.57146,Parada de Sil,Galicia,España,Free,yes,yes,unknown
+445,38.649,0.06661,Calp,Comunitat Valenciana,España,Paying,yes,yes,yes
+446,44.58931,10.53539,Vezzano sul Crostolo,Emilia-Romagna,Italia,Free,yes,no,yes
+447,43.90804,10.21881,Camaiore,Toscana,Italia,Paying,yes,yes,yes
+448,51.26232,1.10247,Canterbury,England,United Kingdom,Paying,yes,yes,yes
+449,41.56393,9.33596,Porto-Vecchio,Corse,France,Paying,yes,no,unknown
+450,40.37837,0.40647,Peníscola / Peñíscola,Comunitat Valenciana,España,Paying,yes,yes,yes
+451,37.87431,-4.78726,Córdoba,Andalucía,España,Paying,yes,unknown,unknown
+452,37.0983,-8.24369,Albufeira,Faro,Portugal,Paying,yes,yes,yes
+453,37.9671,-4.46118,Pedro Abad,Andalucía,España,Free,yes,no,yes
+454,43.62857,5.15376,Pélissanne,Provence-Alpes-Côte d'Azur,France,Free,yes,no,yes
+455,42.46894,-7.28626,Ribas de Sil,Galicia,España,Free,yes,no,unknown
+456,45.18768,0.73078,Périgueux,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+457,42.78636,0.15718,Aragnouet,Occitanie,France,Paying,yes,yes,yes
+458,42.96053,-0.07718,Pierrefitte-Nestalas,Occitanie,France,Free,yes,yes,unknown
+459,40.2383,-3.6907,Pinto,Comunidad de Madrid,España,Paying,yes,yes,unknown
+460,42.50571,-0.35694,Sabiñánigo,Aragón,España,Paying,yes,yes,yes
+461,47.79894,-4.19818,Larvor,Bretagne,France,Free,yes,yes,unknown
+462,40.57582,0.39331,Sant Jordi / San Jorge,Comunitat Valenciana,España,Paying,yes,yes,yes
+463,45.37474,4.44875,Planfoy,Auvergne-Rhône-Alpes,France,Free,yes,no,yes
+464,41.81022,3.05792,Castell-Platja d'Aro,Catalunya,España,Paying,yes,no,unknown
+465,43.5445,-5.69571,Gijón/Xixón,Asturias / Asturies,España,Free,yes,no,yes
+466,43.50672,-1.5346,Anglet,Nouvelle-Aquitaine,France,Paying,yes,no,unknown
+467,48.58029,-2.14482,Beaussais-sur-Mer,Bretagne,France,Free,yes,yes,yes
+468,48.69406,-3.79212,Plougasnou,Bretagne,France,Free,yes,no,yes
+469,48.33771,-4.70729,Plougonvelin,Bretagne,France,Paying,yes,yes,yes
+470,42.56932,-7.39408,A Pobra do Brollón,Galicia,España,Free,yes,no,yes
+471,43.25484,-5.56842,Pola de Laviana,Asturias / Asturies,España,Free,yes,yes,yes
+472,43.62839,-0.82864,Pomarez,Nouvelle-Aquitaine,France,Free,yes,no,yes
+473,42.54372,-6.5869,Ponferrada,Castilla y León,España,Free,yes,no,yes
+474,48.90235,6.06122,Pont-à-Mousson,Grand Est,France,Paying,yes,yes,yes
+475,42.42291,-8.65615,Pontevedra,Galicia,España,Free,yes,no,yes
+476,47.12075,-2.09178,Pornic,Pays de la Loire,France,Free,yes,no,yes
+477,45.94716,-1.09008,Port-des-Barques,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+478,42.51776,3.11373,Port-Vendres,Occitanie,France,Paying,yes,yes,yes
+479,44.05962,9.84879,Le Grazie,Liguria,Italia,Paying,yes,no,unknown
+480,43.15212,-4.91753,Posada de Valdeón,Castilla y León,España,Paying,yes,yes,yes
+481,40.22981,-7.22189,Meimoa,Castelo Branco,Portugal,Free,yes,no,yes
+482,39.32651,-3.48327,Puerto Lápice,Castilla-La Mancha,España,Free,yes,no,yes
+483,39.34073,-7.27758,Valencia de Alcántara,Extremadura,España,Free,yes,no,yes
+484,43.5687,2.01246,Puylaurens,Occitanie,France,Free,yes,no,yes
+485,41.93956,2.83923,Palol d'Onyar,Catalunya,España,Free,yes,no,yes
+486,37.07342,-8.07721,Quarteira,Faro,Portugal,Paying,yes,no,yes
+487,51.79103,11.13946,Quedlinburg,Sachsen-Anhalt,Deutschland,Paying,yes,yes,yes
+488,42.89456,11.77516,Radicofani,Toscana,Italia,Free,yes,no,yes
+489,55.70675,9.26554,Vejle Kommune,Region Syddanmark,Danmark,Free,yes,yes,yes
+490,43.15689,-0.39716,Rébénacq,Nouvelle-Aquitaine,France,Free,yes,yes,yes
+491,39.98514,4.09242,es Mercadal,Illes Balears,España,Paying,yes,yes,yes
+492,42.41864,2.91386,Cantallops,Catalunya,España,Free,yes,yes,yes
+493,42.43908,1.13397,Rialp,Catalunya,España,Free,yes,no,yes
+494,55.32483,8.75769,Ribe,Region Syddanmark,Danmark,Free,yes,yes,yes
+495,42.20253,2.19365,Ripoll,Catalunya,España,Free,yes,no,yes
+496,45.94459,-0.95563,Rochefort,Nouvelle-Aquitaine,France,Free,yes,yes,yes
+497,43.3984,10.42847,Rosignano Solvay,Toscana,Italia,Paying,yes,no,yes
+498,49.50721,9.97036,Röttingen,Bayern,Deutschland,Free,yes,yes,unknown
+499,47.95573,7.29559,Rouffach,Grand Est,France,Free,yes,yes,yes
+500,45.08894,13.64519,Grad Rovinj,Istarska županija,Hrvatska,Paying,yes,yes,unknown
+501,42.02585,2.46492,Rupit i Pruit,Catalunya,España,Paying,yes,yes,yes
+502,47.92057,6.66186,Rupt-sur-Moselle,Grand Est,France,Free,yes,no,unknown
+503,42.55933,-2.75989,San Vicente de la Sonsierra,La Rioja,España,Free,yes,no,yes
+504,43.35474,-8.25381,Sada,Galicia,España,Free,yes,no,yes
+505,42.45764,2.0377,Saillagouse,Occitanie,France,Free,yes,yes,unknown
+506,48.18293,-3.01287,Saint-Aignan,Bretagne,France,Free,yes,yes,yes
+507,46.73438,2.48668,Saint-Amand-Montrond,Centre-Val de Loire,France,Free,no,yes,yes
+508,45.60424,-0.99979,Saint-Georges-de-Didonne,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+509,48.23244,7.37232,Saint-Hippolyte,Grand Est,France,Free,yes,no,yes
+510,45.94528,-0.53689,Saint-Jean-d'Angély,Nouvelle-Aquitaine,France,Paying,yes,yes,yes
+511,43.14181,0.92877,Saint-Martory,Occitanie,France,Paying,yes,yes,yes
+512,48.04526,6.58173,Saint-Nabord,Grand Est,France,Free,yes,no,unknown
+513,45.14795,-0.6049,Saint-Paul,Nouvelle-Aquitaine,France,Free,yes,no,unknown
+514,43.73436,-1.07854,Saint-Paul-lès-Dax,Nouvelle-Aquitaine,France,Free,yes,no,yes
+515,44.9639,-0.40186,Saint-Romain-la-Virvée,Nouvelle-Aquitaine,France,Free,yes,no,yes
+516,45.38791,-0.68986,Saint-Thomas-de-Conac,Nouvelle-Aquitaine,France,Free,yes,no,unknown
+517,49.65087,0.16317,Saint-Jouin-Bruneval,Normandie,France,Free,yes,yes,no
+518,46.84505,4.6331,Saint-Léger-sur-Dheune,Bourgogne-Franche-Comté,France,Free,yes,yes,unknown
+519,43.26457,6.67275,Saint-Tropez,Provence-Alpes-Côte d'Azur,France,Paying,yes,yes,yes
+520,42.85337,-2.38521,Agurain/Salvatierra,Euskadi,España,Free,yes,no,yes
+521,41.90606,0.33159,San Esteban de Litera,Aragón,España,Free,yes,yes,yes
+522,45.46794,12.27851,Mestre,Veneto,Italia,Paying,yes,yes,unknown
+523,43.38525,-1.66291,Saint-Jean-de-Luz,Nouvelle-Aquitaine,France,Paying,yes,no,unknown
+524,41.88429,2.50802,Sant Hilari Sacalm,Catalunya,España,Free,yes,no,yes
+525,42.13664,1.59284,Sant Llorenç de Morunys,Catalunya,España,Paying,yes,yes,yes
+526,43.25778,-7.01861,Santa Eulalia de Oscos,Asturias / Asturies,España,Free,yes,no,yes
+527,42.89755,-8.53028,Santiago de Compostela,Galicia,España,Free,no,no,unknown
+528,42.40952,-8.86183,Soutullo,Galicia,España,Paying,yes,yes,unknown
+529,44.89558,1.21243,Sarlat-la-Canéda,Nouvelle-Aquitaine,France,Paying,yes,no,unknown
+530,43.40312,-0.38763,Sauvagnon,Nouvelle-Aquitaine,France,Free,yes,no,yes
+531,44.21627,2.31694,Sauveterre-de-Rouergue,Occitanie,France,Free,yes,yes,yes
+532,47.81525,8.18096,Schluchsee,Baden-Württemberg,Deutschland,Paying,yes,no,yes
+533,43.51267,16.1796,Seget Vranjica,Splitsko-dalmatinska županija,Hrvatska,Paying,yes,yes,yes
+534,39.84806,-0.48167,Segorbe,Comunitat Valenciana,España,Free,yes,no,yes
+535,40.94103,-4.10818,Segovia,Castilla y León,España,Free,yes,no,yes
+536,43.6924,-1.42621,Le Penon,Nouvelle-Aquitaine,France,Paying,yes,yes,yes
+537,46.26622,4.09068,Semur-en-Brionnais,Bourgogne-Franche-Comté,France,Free,yes,yes,unknown
+538,43.36629,3.6163,Sète,Occitanie,France,Paying,yes,yes,yes
+539,47.00408,5.14326,Seurre,Bourgogne-Franche-Comté,France,Free,yes,no,unknown
+540,37.3662,-5.9939,Sevilla,Andalucía,España,Free,yes,no,yes
+541,56.06374,14.5712,Sölvesborg,Blekinge län,Sverige,Free,yes,yes,yes
+542,43.37371,-2.98962,Sopelana,Euskadi,España,Free,yes,no,unknown
+543,42.49142,-1.21393,Sos del Rey Católico,Aragón,España,Paying,yes,yes,yes
+544,42.95579,-0.07255,Soulom,Occitanie,France,Free,yes,no,yes
+545,44.47074,1.68069,Saint-Cirq-Lapopie,Occitanie,France,Paying,yes,yes,unknown
+546,46.2274,-1.54642,Le Gillieux,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+547,44.86838,1.04382,Saint-Cyprien,Nouvelle-Aquitaine,France,Free,yes,no,unknown
+548,45.01234,1.08971,Saint-Léon-sur-Vézère,Nouvelle-Aquitaine,France,Paying,yes,no,unknown
+549,43.7592,-0.57572,Saint-Sever,Nouvelle-Aquitaine,France,Free,yes,no,yes
+550,45.14921,-0.82118,Saint-Laurent-Médoc,Nouvelle-Aquitaine,France,Free,yes,yes,unknown
+551,44.30765,-1.18127,Sainte-Eulalie-en-Born,Nouvelle-Aquitaine,France,Paying,yes,yes,unknown
+552,48.40216,-0.08907,Saint-Pierre-des-Nids,Pays de la Loire,France,Free,yes,no,yes
+553,50.1825,1.62888,Saint-Valery-sur-Somme,Hauts-de-France,France,Paying,yes,no,unknown
+554,53.11381,8.83575,Bremen,Bremen,Deutschland,Paying,yes,yes,yes
+555,56.28647,13.33925,Örkelljunga kommun,Skåne län,Sverige,Paying,yes,unknown,yes
+556,43.76075,6.15109,Sainte-Croix-du-Verdon,Provence-Alpes-Côte d'Azur,France,Paying,yes,yes,yes
+557,50.31584,9.46043,Steinau an der Straße,Hessen,Deutschland,Free,yes,yes,yes
+558,39.95357,-0.33495,Suera / Sueras,Comunitat Valenciana,España,Paying,yes,no,yes
+559,47.77111,2.38452,Sully-sur-Loire,Centre-Val de Loire,France,Free,yes,no,yes
+560,46.31086,7.63475,Susten,Valais/Wallis,Schweiz/Suisse/Svizzera/Svizra,Free,yes,no,yes
+561,42.08313,3.05739,Tor,Catalunya,España,Paying,yes,no,yes
+562,46.46716,-1.61555,Talmont-Saint-Hilaire,Pays de la Loire,France,Paying,yes,no,unknown
+563,41.86307,0.428,Tamarite de Litera,Aragón,España,Free,yes,no,yes
+564,43.56608,-6.94606,Tapia de Casariego,Asturias / Asturies,España,Paying,yes,no,yes
+565,43.35971,-7.10734,Taramundi,Asturias / Asturies,España,Free,yes,yes,yes
+566,44.7171,-1.06977,Lanton,Nouvelle-Aquitaine,France,Free,yes,no,yes
+567,41.99468,2.41583,Tavertet,Catalunya,España,Paying,yes,no,yes
+568,42.33262,-8.0131,Cenlle,Galicia,España,Free,yes,no,yes
+569,41.99417,-1.68778,Cascante,Navarra - Nafarroa,España,Free,yes,no,yes
+570,47.81144,7.10502,Thann,Grand Est,France,Free,no,yes,yes
+571,47.80879,7.10433,Thann,Grand Est,France,Free,yes,no,yes
+572,44.67232,4.21924,Thueyts,Auvergne-Rhône-Alpes,France,Free,yes,no,yes
+573,41.95863,12.80404,Tivoli,Lazio,Italia,Free,yes,no,yes
+574,43.13389,-2.08383,Tolosa,Euskadi,España,Paying,yes,no,yes
+575,57.25084,-3.37592,Tomintoul,Alba / Scotland,United Kingdom,Paying,yes,yes,yes
+576,42.03667,-4.31611,Torquemada,Castilla y León,España,Free,yes,no,yes
+577,40.22075,-6.57148,Torre de Don Miguel,Extremadura,España,Free,yes,no,yes
+578,41.18093,-7.0418,Torre de Moncorvo,Bragança,Portugal,Free,yes,yes,unknown
+579,40.09388,-1.25381,Torrebaja,Comunitat Valenciana,España,Free,yes,yes,yes
+580,40.80278,0.51417,Tortosa,Catalunya,España,Free,yes,no,unknown
+581,50.60409,3.38181,Tournai,Hainaut,België / Belgique / Belgien,Free,yes,no,yes
+582,45.07314,4.82221,Tournon-sur-Rhône,Auvergne-Rhône-Alpes,France,Free,yes,no,unknown
+583,48.79041,-3.23074,Tréguier,Bretagne,France,Free,unknown,no,yes
+584,49.74087,6.62492,Trier,Rheinland-Pfalz,Deutschland,Paying,yes,yes,unknown
+585,47.22557,0.02328,Turquant,Pays de la Loire,France,Free,yes,yes,yes
+586,38.0065,-3.37933,Úbeda,Andalucía,España,Free,yes,no,yes
+587,39.98667,-2.85972,Uclés,Castilla-La Mancha,España,Free,yes,yes,yes
+588,48.40741,10.0095,Ulm,Baden-Württemberg,Deutschland,Paying,yes,no,unknown
+589,42.36,-1.12807,Uncastillo,Aragón,España,Free,yes,no,yes
+590,44.24285,6.62205,Allos,Provence-Alpes-Côte d'Azur,France,Free,yes,no,yes
+591,42.28755,-5.5131,Valencia de Don Juan,Castilla y León,España,Free,yes,no,yes
+592,41.65579,-4.73697,Valladolid,Castilla y León,España,Paying,yes,no,yes
+593,41.38233,1.92724,Vallirana,Catalunya,España,Free,yes,no,unknown
+594,37.1952,-2.98435,Dólar,Andalucía,España,Free,yes,yes,yes
+595,45.33437,8.419,Vercelli,Piemonte,Italia,Free,yes,no,yes
+596,42.54287,2.39088,Vernet-les-Bains,Occitanie,France,Free,yes,no,yes
+597,44.48557,1.55517,Saint-Géry-Vers,Occitanie,France,Paying,yes,no,yes
+598,41.93452,2.24112,Vic,Catalunya,España,Paying,yes,yes,yes
+599,41.93786,-8.74717,Vila Nova de Cerveira,Viana do Castelo,Portugal,Free,yes,yes,yes
+600,41.84548,2.38737,Viladrau,Catalunya,España,Free,yes,unknown,unknown
+601,41.34035,1.69125,Vilafranca del Penedès,Catalunya,España,Free,yes,no,yes
+602,37.52579,-1.43387,Lorca,Región de Murcia,España,Paying,yes,no,yes
+603,43.29575,-7.67702,Vilalba,Galicia,España,Free,yes,yes,unknown
+604,43.31052,-6.98628,Villanueva de Oscos,Asturias / Asturies,España,Free,yes,no,yes
+605,47.5447,0.88706,Villedômer,Centre-Val de Loire,France,Free,yes,yes,yes
+606,46.39577,2.85695,Villefranche-d'Allier,Auvergne-Rhône-Alpes,France,Free,yes,no,unknown
+607,44.63844,0.74033,Villeréal,Nouvelle-Aquitaine,France,Free,yes,no,yes
+608,41.83382,-7.00304,Vinhais,Bragança,Portugal,Free,yes,no,yes
+609,43.40271,10.86199,Volterra,Toscana,Italia,Paying,yes,no,yes
+610,47.40943,0.7975,Vouvray,Centre-Val de Loire,France,Free,yes,yes,unknown
+611,52.88354,9.59644,Walsrode,Niedersachsen,Deutschland,Free,yes,yes,yes
+612,51.05696,13.74265,Dresden,Sachsen,Deutschland,Paying,yes,yes,yes
+613,51.34575,9.85379,Witzenhausen,Hessen,Deutschland,Paying,yes,no,yes
+614,42.06222,-7.71944,Xinzo de Limia,Galicia,España,Free,yes,no,yes
+615,43.27792,-2.17018,Zarautz,Euskadi,España,Free,yes,no,yes
+616,42.97597,-2.29271,Zegama,Euskadi,España,Free,yes,yes,yes
+617,43.24086,-2.26089,Zestoa,Euskadi,España,Free,yes,no,yes
+618,51.19494,3.22329,Brugge,West-Vlaanderen,België / Belgique / Belgien,Paying,unknown,unknown,unknown
+619,37.46667,-4.42401,Cabra,Andalucía,España,Free,yes,unknown,yes
+620,49.24885,4.02116,Reims,Grand Est,France,Free,yes,yes,unknown
+621,36.7569,-5.50707,El Bosque,Andalucía,España,Free,yes,unknown,yes
+622,39.86712,-2.57221,Zafra de Záncara,Castilla-La Mancha,España,Paying,yes,no,yes
+623,43.34486,-3.74168,Calgar,Cantabria,España,Free,unknown,unknown,unknown
+624,42.68846,-2.95483,Miranda de Ebro,Castilla y León,España,Free,yes,no,yes
+625,41.15572,-7.78032,Peso da Régua,Vila Real,Portugal,Paying,yes,no,yes
+626,38.42517,-6.41077,Zafra,Extremadura,España,Free,yes,yes,yes
+627,39.66134,-8.8253,Batalha,Leiria,Portugal,Free,yes,no,unknown
+628,42.87147,-4.49976,Cervera de Pisuerga,Castilla y León,España,Free,yes,no,unknown
+629,41.40168,-4.32033,Cuéllar,Castilla y León,España,Free,yes,no,yes
+630,42.60598,-7.77989,Chantada,Galicia,España,Free,yes,no,unknown
+631,50.67968,1.56637,Équihen-Plage,Hauts-de-France,France,Paying,yes,no,yes
+632,42.00401,-4.53493,Palencia,Castilla y León,España,Free,yes,no,unknown
+633,43.88982,-0.47566,Mont-de-Marsan,Nouvelle-Aquitaine,France,Paying,yes,unknown,yes
+634,39.47993,-6.37121,Cáceres,Extremadura,España,Free,yes,yes,unknown
+635,37.44227,-4.21184,Priego de Córdoba,Andalucía,España,Free,yes,yes,yes
+636,42.51945,-2.35994,Viana,Navarra - Nafarroa,España,Paying,yes,no,yes
+637,47.62942,6.12669,Vaivre-et-Montoille,Bourgogne-Franche-Comté,France,Free,yes,yes,yes
+638,42.21444,-8.03306,Cartelle,Galicia,España,Free,yes,no,unknown
+639,41.63603,2.40798,Llinars del Vallès,Catalunya,España,Free,yes,yes,yes
+640,42.86667,-2.68501,Vitoria-Gasteiz,Euskadi,España,Free,yes,no,unknown
+641,41.28071,1.58177,Banyeres del Penedès,Catalunya,España,Free,yes,yes,yes
+642,41.8758,12.55554,Roma,Lazio,Italia,Paying,yes,yes,yes
+643,42.95853,-0.20743,Marsous,Occitanie,France,Free,yes,no,yes
+644,50.0277,19.20162,Oświęcim,województwo małopolskie,Polska,Paying,no,yes,unknown
+645,41.85607,3.13588,Palamós,Catalunya,España,Paying,yes,yes,unknown
+646,42.2857,-8.14286,Ribadavia,Galicia,España,Free,yes,no,yes
+647,42.10985,-4.64336,Becerril de Campos,Castilla y León,España,Free,yes,no,yes
+648,44.63855,-0.31691,Cadillac-sur-Garonne,Nouvelle-Aquitaine,France,Free,yes,no,yes
+649,45.61159,7.73268,Hône,Valle d'Aosta / Vallée d'Aoste,Italia,Paying,yes,no,yes
+650,43.72144,10.41937,Pisa,Toscana,Italia,Paying,yes,no,yes
+651,44.54056,10.82639,Fiorano Modenese,Emilia-Romagna,Italia,Free,yes,yes,yes
+652,42.43789,-8.69432,Poio,Galicia,España,Free,yes,no,yes
+653,41.90752,2.74256,Vilobí d'Onyar,Catalunya,España,Free,yes,yes,yes
+654,46.02611,3.2031,Aigueperse,Auvergne-Rhône-Alpes,France,Free,yes,no,yes
+655,41.05194,-0.13911,Alcañiz,Aragón,España,Free,yes,no,yes
+656,40.72902,-6.90168,Almeida,Guarda,Portugal,Free,yes,no,yes
+657,42.33949,-8.61309,Soutomaior,Galicia,España,Free,yes,no,yes
+658,40.92608,-8.25131,Arouca,Aveiro,Portugal,Free,yes,yes,yes
+659,41.89256,1.04297,Artesa de Segre,Catalunya,España,Free,yes,no,yes
+660,36.23606,-6.06861,Vejer de la Frontera,Andalucía,España,Paying,yes,yes,yes
+661,43.55107,-5.9139,Avilés,Asturias / Asturies,España,Free,yes,no,yes
+662,37.21012,-7.40662,Ayamonte,Andalucía,España,Paying,yes,yes,unknown
+663,45.70125,7.23933,Aymavilles,Valle d'Aosta / Vallée d'Aoste,Italia,Paying,yes,no,yes
+664,39.05604,-1.0526,Ayora,Comunitat Valenciana,España,Free,yes,no,yes
+665,42.48707,1.94485,Dorres,Occitanie,France,Free,yes,no,yes
+666,47.54913,7.94716,Bad Säckingen,Baden-Württemberg,Deutschland,Paying,yes,yes,yes
+667,48.50058,9.37535,Bad Urach,Baden-Württemberg,Deutschland,Paying,yes,no,unknown
+668,48.51022,8.37201,Baiersbronn,Baden-Württemberg,Deutschland,Paying,yes,no,unknown
+669,47.8132,6.84149,Lepuix,Bourgogne-Franche-Comté,France,Paying,yes,no,yes
+670,36.18389,-5.93573,Barbate,Andalucía,España,Paying,yes,yes,unknown
+671,46.73153,-1.91144,Saint-Hilaire-de-Riez,Pays de la Loire,France,Free,yes,unknown,yes
+672,40.40415,0.41969,Benicarló,Comunitat Valenciana,España,Free,yes,no,yes
+673,40.05584,0.06073,Benicàssim / Benicasim,Comunitat Valenciana,España,Free,yes,no,yes
+674,42.19906,2.70398,Besalú,Catalunya,España,Free,yes,no,yes
+675,47.23705,6.01637,Besançon,Bourgogne-Franche-Comté,France,Paying,yes,no,yes
+676,41.50344,-5.75641,Zamora,Castilla y León,España,Free,yes,yes,yes
+677,46.20901,5.24037,Bourg-en-Bresse,Auvergne-Rhône-Alpes,France,Free,yes,no,yes
+678,44.25642,0.30669,Buzet-sur-Baïse,Nouvelle-Aquitaine,France,Paying,yes,unknown,yes
+679,41.8394,2.8117,Caldes de Malavella,Catalunya,España,Free,yes,no,yes
+680,36.74863,-4.06588,Vélez-Málaga,Andalucía,España,Paying,yes,yes,unknown
+681,45.87961,10.85896,Riva del Garda,Trentino-Alto Adige/Südtirol,Italia,Paying,yes,unknown,yes
+682,46.02136,14.52279,Ljubljana,Slovenija,Slovenija,Paying,yes,yes,unknown
+683,37.27904,-8.24188,São Bartolomeu de Messines,Faro,Portugal,Paying,yes,unknown,yes
+684,46.42258,15.85308,Ptuj,Slovenija,Slovenija,Paying,yes,yes,yes
+685,42.04229,2.40465,l'Esquirol,Catalunya,España,Free,yes,no,yes
+686,38.59583,-0.66696,Castalla,Comunitat Valenciana,España,Paying,yes,yes,yes
+687,47.61606,1.51092,Chambord,Centre-Val de Loire,France,Paying,yes,yes,yes
+688,48.07147,1.32427,Châteaudun,Centre-Val de Loire,France,Free,yes,no,yes
+689,45.13589,-0.66431,Blaye,Nouvelle-Aquitaine,France,Free,yes,no,yes
+690,49.64244,-1.61778,Cherbourg-en-Cotentin,Normandie,France,Free,yes,no,yes
+691,36.74466,-6.42693,Chipiona,Andalucía,España,Paying,yes,yes,unknown
+692,43.85402,4.60863,Comps,Occitanie,France,Paying,yes,yes,yes
+693,53.04737,8.62435,Delmenhorst,Niedersachsen,Deutschland,Free,yes,no,yes
+694,46.51844,3.685,Dompierre-sur-Besbre,Auvergne-Rhône-Alpes,France,Free,yes,yes,yes
+695,47.36676,0.7001,Tours,Centre-Val de Loire,France,Free,yes,no,yes
+696,41.87573,-4.5421,Dueñas,Castilla y León,España,Free,yes,no,yes
+697,44.67771,0.17821,Duras,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+698,46.32109,11.27422,Neumarkt - Egna,Trentino-Alto Adige/Südtirol,Italia,Paying,yes,no,yes
+699,43.12844,-2.54642,Elorrio,Euskadi,España,Free,yes,yes,yes
+700,46.27556,13.95919,Bohinjska Bistrica,Slovenija,Slovenija,Paying,yes,yes,yes
+701,46.33466,2.55863,Prémilhat,Auvergne-Rhône-Alpes,France,Free,yes,yes,yes
+702,38.20814,-0.57419,Santa Pola,Comunitat Valenciana,España,Paying,yes,yes,yes
+703,42.91107,-9.26357,Fisterra,Galicia,España,Paying,yes,no,yes
+704,58.29303,6.66331,Flekkefjord,Agder,Norge,Paying,yes,no,yes
+705,42.96102,1.6111,Foix,Occitanie,France,Free,yes,no,yes
+706,43.92037,5.12466,Fontaine-de-Vaucluse,Provence-Alpes-Côte d'Azur,France,Paying,yes,no,yes
+707,57.44935,14.10038,Skillingaryd,Jönköpings län,Sverige,Free,yes,yes,yes
+708,48.40219,8.00692,Gengenbach,Baden-Württemberg,Deutschland,Paying,yes,no,unknown
+709,47.39252,0.19693,Gizeux,Centre-Val de Loire,France,Free,yes,yes,yes
+710,48.83506,-1.6098,Granville,Normandie,France,Paying,yes,no,yes
+711,48.98728,-0.95044,Torigny-les-Villes,Normandie,France,Free,yes,no,yes
+712,53.5435,10.02664,Hamburg,Deutschland,Deutschland,Paying,yes,yes,yes
+713,49.41905,0.24127,Honfleur,Normandie,France,Paying,yes,no,yes
+714,43.0468,-2.21222,Beasain,Euskadi,España,Free,yes,no,yes
+715,37.07083,15.26211,Siracusa,Sicilia,Italia,Paying,yes,yes,yes
+716,49.32162,-1.10455,Isigny-sur-Mer,Normandie,France,Free,yes,no,yes
+717,40.33355,-7.86769,Nogueira do Cravo,Coimbra,Portugal,Free,yes,no,yes
+718,47.34618,11.70344,Schwaz,Tirol,Österreich,Paying,yes,no,yes
+719,46.48741,13.77486,Podkoren,Slovenija,Slovenija,Paying,yes,yes,yes
+720,37.54655,-4.35238,Doña Mencía,Andalucía,España,Free,yes,no,yes
+721,41.66999,2.28767,la Garriga,Catalunya,España,Free,yes,no,yes
+722,42.93603,0.30115,Campan,Occitanie,France,Free,yes,yes,yes
+723,49.40871,0.26809,La Rivière-Saint-Sauveur,Normandie,France,Free,yes,no,yes
+724,48.55066,4.76828,Giffaumont-Champaubert,Grand Est,France,Paying,yes,no,yes
+725,43.88531,-1.31959,Léon,Nouvelle-Aquitaine,France,Paying,yes,yes,yes
+726,46.42472,8.40803,Formazza,Piemonte,Italia,Paying,yes,no,yes
+727,48.55089,8.49376,Grömbach,Baden-Württemberg,Deutschland,Free,yes,no,unknown
+728,43.38869,-4.21005,Alfoz de Lloredo,Cantabria,España,Paying,yes,yes,yes
+729,43.47226,-3.80283,Santander,Cantabria,España,Free,yes,no,yes
+730,38.27477,-5.81841,Berlanga,Extremadura,España,Free,yes,yes,yes
+731,48.55991,-4.33531,Le Folgoët,Bretagne,France,Free,yes,yes,yes
+732,49.21853,-1.53643,Lessay,Normandie,France,Free,yes,no,yes
+733,47.60084,9.87574,Lindenberg im Allgäu,Bayern,Deutschland,Paying,yes,no,yes
+734,48.74658,6.05772,Liverdun,Grand Est,France,Free,yes,no,yes
+735,43.42392,-4.76797,Llanes,Asturias / Asturies,España,Paying,yes,no,yes
+736,46.04692,-0.50656,Loulay,Nouvelle-Aquitaine,France,Free,yes,no,yes
+737,46.55944,15.65611,Maribor,Slovenija,Slovenija,Paying,yes,yes,yes
+738,36.71393,-4.3171,Málaga,Andalucía,España,Paying,yes,yes,yes
+739,43.09588,11.78748,Montepulciano,Toscana,Italia,Paying,yes,no,yes
+740,44.03867,-0.90964,Morcenx-la-Nouvelle,Nouvelle-Aquitaine,France,Free,yes,no,yes
+741,47.92328,7.16034,Murbach,Grand Est,France,Free,yes,no,yes
+742,47.55204,8.02434,Murg,Baden-Württemberg,Deutschland,Paying,yes,no,yes
+743,42.81948,-2.79847,Nanclares de la Oca/Langraiz Oka,Euskadi,España,Free,yes,no,yes
+744,45.92572,1.17228,Nieul,Nouvelle-Aquitaine,France,Free,yes,yes,yes
+745,42.45523,-8.92649,O Grove,Galicia,España,Paying,yes,no,yes
+746,42.55583,1.53273,Ordino,Andorra,Andorra,Free,yes,no,yes
+747,37.23111,-5.097,Osuna,Andalucía,España,Free,yes,no,yes
+748,44.6405,8.64986,Ovada,Piemonte,Italia,Free,yes,no,yes
+749,42.50917,-2.442,Oyón/Oion,Euskadi,España,Free,yes,no,yes
+750,42.73239,-8.66132,Padrón,Galicia,España,Free,yes,no,yes
+751,42.82093,-1.65645,Pamplona/Iruña,Navarra - Nafarroa,España,Paying,yes,no,yes
+752,41.99033,2.80144,Girona,Catalunya,España,Free,yes,no,yes
+753,45.53797,13.73781,Koper / Capodistria,Slovenija,Slovenija,Paying,yes,yes,yes
+754,37.09265,-8.3116,Guia,Faro,Portugal,Paying,yes,no,yes
+755,42.30594,3.00851,Peralada,Catalunya,España,Free,yes,no,yes
+756,41.99386,0.38891,Peralta de Calasanz,Aragón,España,Free,yes,no,yes
+757,48.45525,9.228,Pfullingen,Baden-Württemberg,Deutschland,Free,yes,no,yes
+758,46.16554,12.0588,Sospirolo,Veneto,Italia,Paying,yes,yes,yes
+759,28.378,-16.49928,La Orotava,España,España,Free,yes,no,yes
+760,45.06318,5.33642,Pont-en-Royans,Auvergne-Rhône-Alpes,France,Paying,yes,no,yes
+761,42.43348,-8.63486,Pontevedra,Galicia,España,Free,yes,no,yes
+762,41.09414,1.1538,Vila-seca,Catalunya,España,Paying,yes,yes,yes
+763,42.80666,-7.61765,Portomarín,Galicia,España,Free,yes,no,yes
+764,41.68343,-8.83278,Darque,Viana do Castelo,Portugal,Free,yes,no,yes
+765,42.00446,2.03414,Prats de Lluçanès,Catalunya,España,Free,yes,yes,yes
+766,37.22501,-5.30481,La Puebla de Cazalla,Andalucía,España,Free,yes,yes,yes
+767,46.89428,-0.925,Les Épesses,Pays de la Loire,France,Paying,yes,yes,yes
+768,47.86624,-3.54346,Quimperlé,Bretagne,France,Free,yes,no,yes
+769,43.93793,4.55855,Remoulins,Occitanie,France,Free,yes,no,yes
+770,43.46024,-5.05409,Ribeseya,Asturias / Asturies,España,Free,yes,no,yes
+771,42.26843,3.15566,Roses,Catalunya,España,Paying,yes,yes,yes
+772,47.32653,1.12528,Saint-Georges-sur-Cher,Centre-Val de Loire,France,Free,yes,no,yes
+773,47.84533,-2.72433,Saint-Jean-Brévelay,Bretagne,France,Free,yes,yes,yes
+774,45.11515,0.50034,Saint-Léon-sur-l'Isle,Nouvelle-Aquitaine,France,Free,yes,no,yes
+775,48.52209,-3.94572,Saint-Thégonnec Loc-Eguiner,Bretagne,France,Free,yes,yes,yes
+776,40.48659,-8.47524,Sangalhos,Aveiro,Portugal,Free,yes,no,yes
+777,41.53689,1.38206,Santa Coloma de Queralt,Catalunya,España,Free,yes,no,yes
+778,42.6727,-2.34416,Campezo/Kanpezu,Euskadi,España,Paying,yes,no,yes
+779,42.13004,-3.97253,Santa María del Campo,Castilla y León,España,Free,yes,no,yes
+780,43.00362,-3.73907,Merindad de Valdeporres,Castilla y León,España,Paying,yes,yes,yes
+781,45.78978,8.37226,Madonna del Sasso,Piemonte,Italia,Free,yes,no,yes
+782,44.5348,-0.34294,Sauternes,Nouvelle-Aquitaine,France,Free,yes,yes,yes
+783,39.04136,-0.30753,Simat de la Valldigna,Comunitat Valenciana,España,Free,yes,no,yes
+784,41.872,-8.26331,Soajo,Viana do Castelo,Portugal,Free,yes,yes,yes
+785,42.51822,12.51853,Narni,Umbria,Italia,Free,yes,no,yes
+786,49.46392,-1.82792,Surtainville,Normandie,France,Free,yes,no,yes
+787,55.71792,12.58956,København,Region Hovedstaden,Danmark,Paying,yes,yes,yes
+788,46.29885,12.0119,Pèden,Veneto,Italia,Free,yes,yes,yes
+789,70.04081,22.95356,Talvik,Troms og Finnmark,Norge,Free,yes,yes,yes
+790,37.34902,-2.44145,Tíjola,Andalucía,España,Free,yes,no,yes
+791,38.91907,-6.33623,Mérida,Extremadura,España,Paying,yes,yes,yes
+792,41.44087,-8.28467,Guimarães,Braga,Portugal,Free,yes,no,yes
+793,47.8325,7.9557,Todtnau,Baden-Württemberg,Deutschland,Paying,yes,no,yes
+794,41.70561,2.718,Tordera,Catalunya,España,Free,yes,yes,yes
+795,47.53757,1.50013,Tour-en-Sologne,Centre-Val de Loire,France,Free,yes,yes,yes
+796,36.6707,-5.4499,Ubrique,Andalucía,España,Free,yes,no,yes
+797,45.74618,6.41794,Ugine,Auvergne-Rhône-Alpes,France,Free,yes,unknown,yes
+798,42.91417,-1.97361,Uharte Arakil,Navarra - Nafarroa,España,Paying,yes,no,yes
+799,40.256,-7.6235,Unhais da Serra,Castelo Branco,Portugal,Free,yes,yes,yes
+800,48.07728,8.36652,Unterkirnach,Baden-Württemberg,Deutschland,Paying,yes,no,unknown
+801,39.4092,-7.2463,Valencia de Alcántara,Extremadura,España,Free,yes,no,yes
+802,37.65238,-2.07382,Vélez-Rubio,Andalucía,España,Free,yes,no,yes
+803,42.59012,-8.76457,Vilagarcía de Arousa,Galicia,España,Free,yes,no,yes
+804,52.48906,5.06037,Volendam,Noord-Holland,Nederland,Paying,yes,no,yes
+805,46.57444,-0.77494,Vouvant,Pays de la Loire,France,Paying,yes,no,yes
+806,46.24086,15.15397,Žalec,Slovenija,Slovenija,Free,yes,no,yes
+807,48.46279,10.26936,Günzburg,Bayern,Deutschland,Paying,yes,no,yes
+808,36.71034,-6.12139,Jerez de la Frontera,Andalucía,España,Paying,yes,no,yes
+809,43.84366,6.21885,Moustiers-Sainte-Marie,Provence-Alpes-Côte d'Azur,France,Paying,yes,unknown,yes
+810,39.39422,-7.37375,Marvão,Portalegre,Portugal,Free,yes,no,yes
+811,46.58842,12.25619,Auronzo di Cadore,Veneto,Italia,Paying,yes,no,yes
+812,41.77989,3.02288,Sant Feliu de Guíxols,Catalunya,España,Paying,yes,no,yes
+813,45.78266,-1.15228,Ronce-les-Bains,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+814,37.47011,-7.46406,Sanlúcar de Guadiana,Andalucía,España,Free,yes,no,yes
+815,36.71959,-3.36431,Castell de Ferro,Andalucía,España,Paying,yes,yes,yes
+816,45.64468,7.71746,Arnad,Valle d'Aosta / Vallée d'Aoste,Italia,Free,yes,no,yes
+817,47.76311,11.55014,Bad Tölz,Bayern,Deutschland,Paying,yes,yes,yes
+818,42.50068,0.79456,la Vall de Boí,Catalunya,España,Free,yes,no,unknown
+819,43.15595,-5.97295,Quirós,Asturias / Asturies,España,Free,yes,no,yes
+820,48.42425,-1.57402,Bazouges-la-Pérouse,Bretagne,France,Free,yes,no,yes
+821,42.85971,-8.64876,Ames,Galicia,España,Free,yes,no,unknown
+822,46.10941,1.36995,Bessines-sur-Gartempe,Nouvelle-Aquitaine,France,Free,yes,yes,yes
+823,49.79052,5.05737,Bouillon,Luxembourg,België / Belgique / Belgien,Free,yes,no,yes
+824,43.35802,-3.81972,Penagos,Cantabria,España,Free,unknown,unknown,unknown
+825,37.38863,-1.61577,Águilas,Región de Murcia,España,Paying,yes,yes,unknown
+826,39.21027,9.12765,Cagliari - Casteddu,Sardigna/Sardegna,Italia,Paying,yes,yes,yes
+827,38.002,-1.01922,Murcia,Región de Murcia,España,Paying,yes,yes,unknown
+828,38.12092,-0.66,San Fulgencio,Comunitat Valenciana,España,Paying,yes,yes,yes
+829,38.00765,-1.04332,Murcia,Región de Murcia,España,Paying,yes,yes,unknown
+830,37.79279,-1.5104,Totana,Región de Murcia,España,Paying,yes,no,unknown
+831,-36.82772,139.8505,Kingston SE,South Australia,Australia,Free,yes,yes,yes
+832,43.01334,-6.60823,Cangas del Narcea,Asturias / Asturies,España,Free,yes,yes,yes
+833,43.32683,2.52549,Caunes-Minervois,Occitanie,France,Free,no,no,unknown
+834,49.12089,5.03639,Clermont-en-Argonne,Grand Est,France,Paying,yes,yes,yes
+835,42.45352,1.48644,Aubinyà,Andorra,Andorra,Free,no,yes,unknown
+836,45.12593,-0.66527,Blaye,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+837,27.97589,-15.58812,Tejeda,España,España,Free,yes,yes,unknown
+838,45.7815,14.20557,Postojna,Slovenija,Slovenija,Paying,yes,yes,unknown
+839,47.65805,9.16928,Konstanz,Baden-Württemberg,Deutschland,Paying,yes,yes,yes
+840,48.54753,-1.75498,Dol-de-Bretagne,Bretagne,France,Free,yes,yes,yes
+841,45.40365,2.04749,Égletons,Nouvelle-Aquitaine,France,Free,yes,no,unknown
+842,39.48151,-7.54972,Santiago Maior,Portalegre,Portugal,Free,yes,yes,unknown
+843,42.53544,1.58873,Encamp,Andorra,Andorra,Paying,yes,no,unknown
+844,48.62166,-2.4727,Erquy,Bretagne,France,Free,yes,no,unknown
+845,42.71085,-1.7773,Legarda,Navarra - Nafarroa,España,Free,yes,yes,unknown
+846,42.79635,0.43926,Loudervielle,Occitanie,France,Free,no,yes,unknown
+847,43.03812,-4.37073,Hermandad de Campoo de Suso,Cantabria,España,Free,yes,yes,yes
+848,49.16217,10.32481,Feuchtwangen,Bayern,Deutschland,Free,no,no,unknown
+849,41.41314,2.22206,Sant Adrià de Besòs,Catalunya,España,Paying,yes,yes,unknown
+850,41.08846,-6.81725,Freixo de Espada à Cinta,Bragança,Portugal,Free,yes,no,yes
+851,51.70358,4.86345,Geertruidenberg,Noord-Brabant,Nederland,Paying,yes,yes,yes
+852,42.52303,2.22168,Thuès-Entre-Valls,Occitanie,France,Paying,yes,unknown,yes
+853,42.95668,-0.32885,Gourette,Nouvelle-Aquitaine,France,Free,no,no,unknown
+854,66.72461,13.69942,Meløy,Nordland,Norge,Free,yes,yes,unknown
+855,43.24798,-5.90537,Riosa,Asturias / Asturies,España,Paying,yes,no,yes
+856,45.65341,5.86018,Le Bourget-du-Lac,Auvergne-Rhône-Alpes,France,Paying,yes,yes,unknown
+857,44.10563,0.88521,Valence,Occitanie,France,Paying,yes,yes,yes
+858,43.52636,-1.51697,Anglet,Nouvelle-Aquitaine,France,Paying,yes,yes,unknown
+859,47.09514,-2.04974,La Bernerie-en-Retz,Pays de la Loire,France,Free,yes,yes,unknown
+860,46.03356,1.29907,Razès,Nouvelle-Aquitaine,France,Free,yes,yes,yes
+861,45.00618,-1.16871,Lacanau,Nouvelle-Aquitaine,France,Paying,yes,no,unknown
+862,43.2399,-7.55564,Cospeito,Galicia,España,Free,yes,no,unknown
+863,41.73708,-1.06557,Zaragoza,Aragón,España,Free,yes,yes,unknown
+864,47.31979,-1.34787,Le Cellier,Pays de la Loire,France,Free,yes,yes,unknown
+865,42.78471,1.68838,Les Cabannes,Occitanie,France,Paying,yes,yes,unknown
+866,42.80155,0.4109,Loudenvielle,Occitanie,France,Free,yes,no,yes
+867,44.78422,1.89973,Leyme,Occitanie,France,Free,yes,no,unknown
+868,42.79672,0.40844,Loudenvielle,Occitanie,France,Paying,yes,yes,unknown
+869,42.81105,9.33364,Canari,Corse,France,Paying,yes,yes,unknown
+870,42.84532,-8.58099,O Milladoiro,Galicia,España,Free,yes,no,unknown
+871,44.09492,3.0824,Millau,Occitanie,France,Paying,yes,yes,unknown
+872,42.52787,-7.51178,Monforte de Lemos,Galicia,España,Free,unknown,unknown,unknown
+873,44.70806,2.49686,Montsalvy,Auvergne-Rhône-Alpes,France,Free,yes,yes,unknown
+874,48.6123,-1.50788,Beauvoir,Normandie,France,Paying,no,no,unknown
+875,50.75566,11.75636,Neustadt an der Orla,Thüringen,Deutschland,Free,yes,no,yes
+876,58.50749,15.97696,Norsholm,Östergötlands län,Sverige,Paying,yes,yes,unknown
+877,48.02292,-2.17146,Paimpont,Bretagne,France,Paying,yes,unknown,yes
+878,40.92898,-4.05689,Palazuelos de Eresma,Castilla y León,España,Free,yes,no,unknown
+879,42.54538,1.73344,Encamp,Andorra,Andorra,Paying,yes,no,unknown
+880,40.54961,-8.77067,Vagos,Aveiro,Portugal,Free,yes,yes,yes
+881,63.23693,24.82099,Kivijärvi,Keski-Suomi,Suomi / Finland,Free,yes,yes,unknown
+882,44.6403,-1.01969,Le Teich,Nouvelle-Aquitaine,France,Free,yes,yes,yes
+883,41.29165,-4.68193,Olmedo,Castilla y León,España,Free,yes,no,yes
+884,38.56002,-0.08362,Benidorm,Comunitat Valenciana,España,Paying,yes,yes,unknown
+885,42.90977,-0.61941,Accous,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+886,43.57624,-1.48635,Ondres,Nouvelle-Aquitaine,France,Paying,yes,yes,unknown
+887,47.8539,-3.74346,Pont-Aven,Bretagne,France,Free,yes,no,unknown
+888,42.38884,-8.49938,Ponte Caldelas,Galicia,España,Free,yes,unknown,unknown
+889,47.48831,-3.13681,Port Maria,Bretagne,France,Paying,yes,no,unknown
+890,43.01348,3.04088,Port-la-Nouvelle,Occitanie,France,Paying,yes,no,unknown
+891,38.96591,-5.96265,Medellín,Extremadura,España,Free,yes,no,yes
+892,43.93504,12.44485,Città di San Marino,San Marino,San Marino,Free,no,no,unknown
+893,45.58037,0.04478,Roullet-Saint-Estèphe,Nouvelle-Aquitaine,France,Free,yes,no,unknown
+894,48.41111,-1.36278,Maen-Roch,Bretagne,France,Free,yes,yes,unknown
+895,45.03578,3.09823,Saint-Flour,Auvergne-Rhône-Alpes,France,Free,yes,no,unknown
+896,46.19932,-1.36506,Saint-Martin-de-Ré,Nouvelle-Aquitaine,France,Paying,yes,no,yes
+897,48.68265,-3.97073,Saint-Pol-de-Léon,Bretagne,France,Paying,yes,yes,yes
+898,44.39669,0.80508,Saint-Sylvestre-sur-Lot,Nouvelle-Aquitaine,France,Free,yes,yes,yes
+899,47.51153,-3.13893,Saint-Pierre-Quiberon,Bretagne,France,Free,yes,no,unknown
+900,43.80279,7.74772,Sanremo,Liguria,Italia,Paying,yes,no,unknown
+901,42.46602,1.49422,Sant Julià de Lòria,Andorra,Andorra,Free,yes,no,yes
+902,46.02827,-1.38419,Saint-Denis-d'Oléron,Nouvelle-Aquitaine,France,Free,yes,yes,unknown
+903,46.35049,-1.43666,La Tranche-sur-Mer,Pays de la Loire,France,Paying,yes,no,yes
+904,40.0834,9.67794,Baunei,Sardigna/Sardegna,Italia,Paying,yes,yes,unknown
+905,45.86873,3.48255,Thiers,Auvergne-Rhône-Alpes,France,Free,yes,yes,unknown
+906,48.67925,5.88781,Toul,Grand Est,France,Free,yes,no,yes
+907,43.78299,6.44211,Trigance,Provence-Alpes-Côte d'Azur,France,Free,yes,yes,unknown
+908,42.04335,-8.6465,Tui,Galicia,España,Free,yes,no,unknown
+909,40.87389,0.15556,Valderrobres,Aragón,España,Free,yes,no,unknown
+910,37.58107,-6.75165,Valverde del Camino,Andalucía,España,Free,yes,no,unknown
+911,44.89777,5.36963,Vassieux-en-Vercors,Auvergne-Rhône-Alpes,France,Free,yes,no,unknown
+912,37.55425,-2.60865,Cúllar,Andalucía,España,Free,yes,yes,yes
