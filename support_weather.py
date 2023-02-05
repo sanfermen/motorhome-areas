@@ -3,7 +3,11 @@ import requests
 
 def clima(dataf, indice):
     """
-    Esto es un docstring
+    Get the weather for next week of a specified location
+        Parameters:
+            Dataframe, index number of the area
+        Return:
+            A dataframe with the predictions
     """
     # hacemos la llamada  a la API
     url = f'https://api.open-meteo.com/v1/forecast?latitude={dataf.loc[indice,"latitude"]}&longitude={dataf.loc[indice,"longitude"]}&daily=weathercode&timezone=auto'
