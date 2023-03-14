@@ -1,7 +1,7 @@
 import pandas as pd
 import mysql.connector
 
-class database_SQL:
+class Database_SQL:
     def __init__(self, name_bbdd, password):
         """
         This class is used to connect to a database and execute SQL queries
