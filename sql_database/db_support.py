@@ -34,7 +34,7 @@ class Database_SQL:
             print("Message", err.msg)
 
 
-    def create_tabla(self, query):
+    def create_table(self, query):
         """
         We connect to the database using the connector, we create a cursor, and we try to execute the
         query. If we can't execute the query, we print the error
