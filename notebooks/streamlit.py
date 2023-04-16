@@ -11,7 +11,7 @@ st.subheader("Map of Europe Areas")
 
 st.caption("If you select one of the areas, you can see its index")
 
-df= pd.read_csv("sobre-la-marcha/files/03-areas_country.csv", index_col = 0)
+df= pd.read_csv("../files/03-areas_country.csv", index_col = 0)
 
 
 map = folium.Map(location=[df.latitude.mean(), df.longitude.mean()], zoom_start=5, control_scale=True)
@@ -23,9 +23,9 @@ for index, location_info in df.iterrows():
         folium.Marker([location_info["latitude"], location_info["longitude"]], tooltip = location_info["town"], popup=index, icon=folium.Icon(color='red', prefix='fa',icon='van-shuttle')).add_to(map)
 
 st_data = st_folium(map, width = 800)
-st_data
 
-area = st.number_input("Insert the area index")
+
+area = st.number_input("Insert the area index", min_value = 0, max_value= 912, step= 1)
 df1 = sw.clima(df, area)
 
 df_area = pd.DataFrame(df.loc[area,:]).T
