@@ -2,7 +2,7 @@
 
 ![IMG20221226142923](https://user-images.githubusercontent.com/114421338/232432777-9283987d-79db-4b45-a996-c483fd333717.jpg)
 
-The goal of this repo is to create a database and a streamlit app from a messy csv file.
+The goal of this repo is to create a database and a streamlit app from a messy csv file, that contains some info about motorhome areas locations, using some APIs.
 
 
 ## Repository Structure
